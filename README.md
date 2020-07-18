@@ -5,10 +5,10 @@
 I am a Full Stack Developer, specialized in Front-End, UI Development.
 
 **Learning some new tech**:
-- my future tech to learn: Gatsby - Next - Deno - Nest
-- my interests: GraphQL - Webpack - Tailwind - JAMstack
-- my favorite: React - Sass
-- currently working on Protgres 🐘
+- going to learn: `GraphQL`- `Gatsby` - `Next` - `Deno` - `Nest`
+- my interests: `Webpack` - `Tailwind` - `Bulma` - `JAMstack`
+- my favorites: `React` - `Node` - `Sass`
+- currently working on `Protgres` 🐘
 
 **You can find me**:
 - tinkering with snippets of code at [**Repl.it**][Repl.it]
