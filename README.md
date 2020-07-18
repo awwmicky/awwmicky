@@ -1,4 +1,4 @@
-## Hi, I'm Micky 🕸
+## Hi, I'm Micky 👋
 
 ### TA at UC Berkeley Extension (SF Location) & TrilogyEd
 
