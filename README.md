@@ -23,7 +23,7 @@ I am a Full Stack Developer, specialized in Front-End, UI Development.
 
 [Website]: https://aww-micky.web.app/
 [Resume]: https://cutt.ly/michael-f-alvarez-cv
-[Email]: michael_fred_alvarez@yahoo.com
+[Email]: mailto:michael_fred_alvarez@yahoo.com
 [LinkedIn]: https://www.linkedin.com/in/awwmicky/
 
 [Repl.it]: https://repl.it/@awwmicky
