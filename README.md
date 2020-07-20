@@ -6,13 +6,13 @@ I am a Full Stack Developer, specialized in Front-End, UI Development.
 
 **Learning some new tech**:
 - going to learn: `GraphQL`- `Gatsby` - `Next` - `Deno` - `Nest`
-- my interests: `Webpack` - `Tailwind` - `Bulma` - `JAMstack`
+- my interests: `Tailwind` - `Bulma` - `Webpack` - `JAMstack`
 - my favorites: `React` - `Node` - `Sass`
 - currently working on `Protgres` 🐘
 
 **You can find me**:
-- tinkering with snippets of code at [**Repl.it**][Repl.it]
-- coding styled components at [**Front-End Mentor**][Front-End Mentor]
+- tinkering with snippets of code on [**Repl.it**][Repl.it]
+- building use interfaces on [**Front-End Mentor**][Front-End Mentor]
 
 🖼 [**Website**][Website] **|**
 📄 [**Resume**][Resume] **|**
