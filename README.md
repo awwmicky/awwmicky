@@ -12,6 +12,7 @@ I am a Full Stack Developer, specialized in Front-End, UI Development.
 
 **You can find me**:
 - tinkering with snippets of code on [**Repl.it**][Repl.it]
+- playing with React & Node concepts on [**CodeSandbox**][CodeSandbox]
 - building use interfaces on [**Front-End Mentor**][Front-End Mentor]
 
 🖼 [**Website**][Website] **|**
@@ -27,4 +28,5 @@ I am a Full Stack Developer, specialized in Front-End, UI Development.
 [LinkedIn]: https://www.linkedin.com/in/awwmicky/
 
 [Repl.it]: https://repl.it/@awwmicky
+[CodeSandbox]: https://codesandbox.io/u/awwmicky/sandboxes
 [Front-End Mentor]: https://www.frontendmentor.io/profile/awwmicky
