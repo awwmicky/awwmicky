@@ -13,7 +13,7 @@ I am a Full Stack Developer, specialized in Front-End, UI Development.
 **You can find me**:
 - tinkering with snippets of code on [**Repl.it**][Repl.it]
 - playing with React & Node concepts on [**CodeSandbox**][CodeSandbox]
-- building use interfaces on [**Front-End Mentor**][Front-End Mentor]
+- building user interfaces on [**Front-End Mentor**][Front-End Mentor]
 
 🖼 [**Website**][Website] **|**
 📄 [**Resume**][Resume] **|**
