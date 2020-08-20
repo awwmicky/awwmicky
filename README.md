@@ -1,6 +1,6 @@
 ## Hi, I'm Micky 👋
 
-### TA at UC Berkeley Extension (SF Location) & TrilogyEd
+### TA at UC Berkeley Extension & TrilogyEd
 
 I am a Full Stack Developer, specialized in Front-End, UI Development.
 
