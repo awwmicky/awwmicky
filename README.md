@@ -6,7 +6,7 @@ I am a Full Stack Developer, specialized in Front-End, UI Development.
 
 **Some of the new tech**:
 - planning to learn: `GraphQL`- `Gatsby` - `Next` - `Deno` - `Nest`
-- I'm interested in: `Tailwind` - `Strapi` - `Stripe API` - `JAMstack`
+- I'm interested in: `Tailwind` - `Strapi CMS` - `Stripe API` - `JAMstack`
 - using my favorites: `React` - `Node` - `Sass`
 - currently working on `Protgres` 🐘
 
