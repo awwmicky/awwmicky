@@ -2,7 +2,7 @@
 
 ### Teaching Assistant at UC Berkeley Extension & TrilogyEd
 
-I am a Full Stack Engineer, Front-End Specialist, UI Development.
+I am a Full Stack Engineer, Front-End Specialist, UI Developer.
 
 **Some of the new tech**:
 - planning to learn: `GraphQL`- `Gatsby` - `Next` - `Deno` - `Nest`
