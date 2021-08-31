@@ -11,16 +11,16 @@
 
 <table>
   <!-- <tr> <td>+</td> </tr> -->
-  <!-- <a target="_blank" href=""><img alt="" src="" /></a> -->
+  <!-- <a title="" target="_blank" href=""><img alt="" src="" /></a> -->
   <tr>
     <td><b>Primarily Use:</b></td>
     <td>
-      <a title="React" href="https://reactjs.org/">
+      <a title="React" target="_blank" href="https://reactjs.org/">
         <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
       </a>
     </td>
     <td>
-      <a title="Sass" href="https://sass-lang.com/">
+      <a title="Sass" target="_blank" href="https://sass-lang.com/">
         <img alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
       </a>
     </td>
@@ -28,27 +28,27 @@
   <tr> 
     <td><b>Daily Tools:</b></td>
     <td>
-      <a target="_blank" href="https://code.visualstudio.com/">
+      <a title="VS Code" target="_blank" href="https://code.visualstudio.com/">
         <img alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
       </a>
     </td>
     <td>
-      <a target="_blank" href="https://insomnia.rest/">
+      <a title="Insomnia" target="_blank" href="https://insomnia.rest/">
         <img alt="Insomnia" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/insomnia.svg" />
       </a>
     </td>
     <td>
-      <a target="_blank" href="https://www.figma.com/">
+      <a title="Figma" target="_blank" href="https://www.figma.com/">
         <img alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
       </a>
     </td>
     <td>
-      <a target="_blank" href="https://www.invisionapp.com/">
+      <a title="InVision" target="_blank" href="https://www.invisionapp.com/">
         <img alt="InVision" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/invision-icon.svg" />
       </a>
     </td>
     <td>
-      <a target="_blank" href="https://www.notion.so/">
+      <a title="Notion" target="_blank" href="https://www.notion.so/">
         <img alt="Notion" height="30" width="30" src="https://static.cdnlogo.com/logos/n/50/notion.svg" />
       </a>
     </td>
@@ -91,6 +91,7 @@
   <img alt="Powershell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen" />
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -109,7 +110,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google%20analytics&logoColor=white" />
+  <img alt="Google Analytics" src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google%20analytics&logoColor=white" />
+  <img alt="Google Ads" src="https://img.shields.io/badge/Google_Ads-3c8bd8?style=flat-square&logo=google%20ads&logoColor=white" />
 </div>
 
 ## Things I want to learn
@@ -133,6 +135,7 @@
   <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white" />
   <img alt="Gatsby.js" src="https://img.shields.io/badge/Gatsby.js-663399?style=flat-square&logo=gatsby&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Apollo" src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
   <img alt="Deno" src="https://img.shields.io/badge/Deno-464647?style=flat-square&logo=deno&logoColor=white" />
@@ -142,11 +145,23 @@
   <img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white" />
 </div>
 
+## Projects I plan to build
+
+<ul>
+  <!-- <li>+</li> -->
+  <li>My Portfolio Website</li>
+  <li>E-Commerce Web App</li>
+  <li>Blog Web App</li>
+  <li>Decentralized Chat Web App</li>
+  <li>Serverless \ Headless CMS</li>
+  <li>full authentication process</li>
+  <li>full transaction process</li>
+</ul>
 
 ---
 
 <div align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  <img alt="😎" width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" />
   <h2><b>💻 Want to have an online coffee chat ☕</b></h2>
   <h3>You can find me on</h3>
   <!-- <a target="_blank" href=""><img alt="" src="" /></a> -->
