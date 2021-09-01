@@ -119,7 +119,7 @@
 
 <div>
   <!-- <img alt="" src="" /> -->
-  <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img alt="ShellScript" src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=jest&logoColor=white" />

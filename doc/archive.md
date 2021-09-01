@@ -14,7 +14,7 @@
 - Front-End
   - Vue \ Svelte \ Vite \ Snowpack
   - Gatsby.js \ Next.js
-  - Tailwind \ Chakra-UI \ Ant-Design
+  - Tailwind \ Chakra-UI \ Ant Design
 - Back-End
   - Deno \ Nest.js \ Fastify
 - Database
@@ -48,6 +48,7 @@
   <img alt="" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
 
 <!-- Database -->
+  - FaunaDB
   https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white
   https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
