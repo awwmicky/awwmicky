@@ -14,3 +14,8 @@
   - resume
 - [ ] animation/gif/svg
   - github contribution grid snake
+
+- [] goals
+  - long \ mid \ short
+  - what is the priority as a layout
+  - know: for sure \ somewhat \ not at all

@@ -1,8 +1,8 @@
 # Hi, I'm Micky <img alt="👋" width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
 
----
+## A Front-End, UX/UI Developer.
 
-## I am a Front-End, UX/UI Developer.
+<br/>
 
 <a href="https://github.com/awwmicky">
   <img alt="github-stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=awwmicky&theme=blue-green&include_all_commits=true&count_private=true&show_icons=true" />
@@ -88,6 +88,7 @@
 <div>
   <!-- <img alt="" src="" /> -->
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" />
   <img alt="Powershell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -119,13 +120,13 @@
 <div>
   <!-- <img alt="" src="" /> -->
   <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" />
+  <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?&style=flat-square&logo=Socket.io&logoColor=white" />
   <img alt="Framer" src="https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue" />
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" />
   <img alt="Svelte" src="https://img.shields.io/badge/Svelte.js-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
@@ -147,16 +148,21 @@
 
 ## Projects I plan to build
 
-<ul>
-  <!-- <li>+</li> -->
-  <li>My Portfolio Website</li>
-  <li>E-Commerce Web App</li>
-  <li>Blog Web App</li>
-  <li>Decentralized Chat Web App</li>
-  <li>Serverless \ Headless CMS</li>
-  <li>full authentication process</li>
-  <li>full transaction process</li>
-</ul>
+- My Portfolio Website
+- E-Commerce Web App
+- Blog Web App
+- Decentralized Chat Web App
+- Live Stream Chat Web App
+- Processes / Systems
+  - full authentication process
+  - full transaction process
+  - architect system
+    - Server-Side Rendering \ Static Site Generator
+    - Serverless \ Headless CMS
+    - infrastructure \ microservices
+- Performance Cost
+  - load time \ scalability \ optimization
+  - portability \ maintainability \ workflow experience
 
 ---
 
@@ -165,6 +171,7 @@
   <h2><b>💻 Want to have an online coffee chat ☕</b></h2>
   <h3>You can find me on</h3>
   <!-- <a target="_blank" href=""><img alt="" src="" /></a> -->
+
   <div>
     <a target="_blank" href="https://repl.it/@awwmicky">
       <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white" />
