@@ -120,8 +120,8 @@
 <div>
   <!-- <img alt="" src="" /> -->
   <img alt="ShellScript" src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -153,6 +153,7 @@
 - Blog Web App
 - Decentralized Chat Web App
 - Live Stream Chat Web App
+- any TypeScript projects: React & Node
 - Processes / Systems
   - full authentication process
   - full transaction process
@@ -200,12 +201,11 @@
   </div>
 </div>
 
-
-<!-- 
 <br />
 
-<img 
-  alt="github-contribution-grid-snake" 
-  src="https://github.com/awwmicky/awwmicky/blob/output/github-contribution-grid-snake.svg" 
-/> 
--->
+<a title="open 'generate snake' demo" target="_blank" href="https://platane.github.io/snk">
+  <img 
+    alt="github-contribution-grid-snake" 
+    src="https://github.com/awwmicky/awwmicky/blob/output/github-contribution-grid-snake.svg" 
+  />
+</a>

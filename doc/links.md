@@ -18,6 +18,11 @@
 - https://github-readme-streak-stats.herokuapp.com/?user={username}
 - https://visitor-badge.glitch.me/badge?page_id=page.id
 
+## Snake Generator
+- https://platane.github.io/snk
+- https://github.com/Platane/snk
+- https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
+
 ## Example
 - https://github.com/abhisheknaiidu/awesome-github-profile-readme
 - https://awesomegithubprofile.tech/
