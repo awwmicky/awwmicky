@@ -207,6 +207,7 @@
 <a title="open 'generate snake' demo" target="_blank" href="https://platane.github.io/snk">
   <img 
     alt="github-contribution-grid-snake" 
+    width="100%"
     src="https://raw.githubusercontent.com/awwmicky/awwmicky/output/github-contribution-grid-snake.svg" 
   />
 </a>
@@ -214,6 +215,7 @@
 <a title="open 'profile-summary' demo" target="_blank" href="https://github-profile-summary-cards.vercel.app/demo.html">
   <img 
     alt="github-profile-summary-cards" 
+    width="100%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awwmicky&theme=github" 
   />
 </a>
