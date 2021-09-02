@@ -20,6 +20,9 @@
 - github-profile-summary-cards
   - https://github.com/vn7n24fzkq/github-profile-summary-cards
   - https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}
+- github-readme-activity-graph
+  - https://github.com/Joel-Nickson/github-readme-activity-graph
+  - https://activity-graph.herokuapp.com/graph?username={username}
 - other
   - https://github.com/marketplace/actions/metrics-embed
   - https://github-readme-streak-stats.herokuapp.com/?user={username}
