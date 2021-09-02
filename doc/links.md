@@ -12,11 +12,18 @@
 - https://github.com/Ileriayo/markdown-badges
 - https://img.shields.io/badge/{TEXT_TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=FFF
 
-## github-readme-stats
-- https://github-readme-stats.vercel.app/api?username={username}
-- https://github-readme-stats.vercel.app/api/top-langs/?username={username}
-- https://github-readme-streak-stats.herokuapp.com/?user={username}
-- https://visitor-badge.glitch.me/badge?page_id=page.id
+## GitHub Status (Image)
+- github-readme-stats
+  - https://github.com/anuraghazra/github-readme-stats
+  - https://github-readme-stats.vercel.app/api?username={username}
+  - https://github-readme-stats.vercel.app/api/top-langs/?username={username}
+- github-profile-summary-cards
+  - https://github.com/vn7n24fzkq/github-profile-summary-cards
+  - https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}
+- other
+  - https://github.com/marketplace/actions/metrics-embed
+  - https://github-readme-streak-stats.herokuapp.com/?user={username}
+  - https://visitor-badge.glitch.me/badge?page_id=page.id
 
 ## Snake Generator
 - https://platane.github.io/snk

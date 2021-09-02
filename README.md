@@ -137,6 +137,7 @@
   <img alt="Gatsby.js" src="https://img.shields.io/badge/Gatsby.js-663399?style=flat-square&logo=gatsby&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
   <img alt="Deno" src="https://img.shields.io/badge/Deno-464647?style=flat-square&logo=deno&logoColor=white" />
@@ -206,6 +207,13 @@
 <a title="open 'generate snake' demo" target="_blank" href="https://platane.github.io/snk">
   <img 
     alt="github-contribution-grid-snake" 
-    src="https://github.com/awwmicky/awwmicky/blob/output/github-contribution-grid-snake.svg" 
+    src="https://raw.githubusercontent.com/awwmicky/awwmicky/output/github-contribution-grid-snake.svg" 
+  />
+</a>
+
+<a title="open 'profile-summary' demo" target="_blank" href="https://github-profile-summary-cards.vercel.app/demo.html">
+  <img 
+    alt="github-profile-summary-cards" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awwmicky&theme=github" 
   />
 </a>

@@ -1,8 +1,8 @@
 name: Generate Snake - GitHub Contribute Data
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "* */24 * * *" # execute every 24 hours
   workflow_dispatch: # auto run from Actions Tab
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     name: Jobs to update data
     runs-on: ubuntu-latest
     steps:
-      
+      # repo under $GITHUB_WORKSHOP
       - uses: actions/checkout@v2
       # generate snake gif
       - uses: Platane/snk@master
