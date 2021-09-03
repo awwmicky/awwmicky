@@ -139,7 +139,7 @@
   <img alt="Apollo" src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Go Lang" src="https://img.shields.io/badge/Go_Lang-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
   <img alt="Deno" src="https://img.shields.io/badge/Deno-464647?style=flat-square&logo=deno&logoColor=white" />
   <img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Fastify.js" src="https://img.shields.io/badge/Fastify.js-202020?style=flat-square&logo=fastify&logoColor=white" />
@@ -162,9 +162,6 @@
     - Server-Side Rendering \ Static Site Generator
     - Serverless \ Headless CMS
     - infrastructure \ microservices
-- Performance Cost
-  - load time \ scalability \ optimization
-  - portability \ maintainability \ workflow experience
 
 ---
 
