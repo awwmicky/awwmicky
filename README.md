@@ -5,8 +5,8 @@
 <br/>
 
 <a href="https://github.com/awwmicky">
-  <img alt="github-stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=awwmicky&theme=blue-green&include_all_commits=true&count_private=true&show_icons=true" />
-  <img alt="top-languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwmicky&theme=blue-green&layout=compact&langs_count=5" />
+  <img alt="github-stats" height="175em" src="https://github-readme-stats.vercel.app/api?username=awwmicky&theme=blue-green&include_all_commits=true&count_private=true&show_icons=true" />
+  <img alt="top-languages" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwmicky&theme=blue-green&layout=compact&langs_count=6" />
 </a>
 
 <table>
@@ -147,28 +147,13 @@
   <img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white" />
 </div>
 
-## Projects I plan to build
-
-- My Portfolio Website
-- E-Commerce Web App
-- Blog Web App
-- Decentralized Chat Web App
-- Live Stream Chat Web App
-- any TypeScript projects: React & Node
-- Processes / Systems
-  - full authentication process
-  - full transaction process
-  - architect system
-    - Server-Side Rendering \ Static Site Generator
-    - Serverless \ Headless CMS
-    - infrastructure \ microservices
-
 ---
 
 <div align="center">
   <img alt="😎" width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" />
   <h2><b>💻 Want to have an online coffee chat ☕</b></h2>
-  <h3>You can find me on</h3>
+  <h3>You can find me here</h3>
+  <p>↓ (click on any button below) ↓</p>
   <!-- <a target="_blank" href=""><img alt="" src="" /></a> -->
 
   <div>
@@ -184,7 +169,7 @@
     <a target="_blank" href="https://www.aww-micky.com">
       <img alt="Website" src="https://img.shields.io/badge/Website-25D366?style=for-the-badge&logo=world&logoColor=white" />
     </a>
-    <a href="mailto:michael_fred_alvarez@yahoo.com">
+    <a href="mailto:m-f-alvarez@outlook.com">
       <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white" />
     </a>
     <a target="_blank" href="https://cutt.ly/michael-f-alvarez-cv">
