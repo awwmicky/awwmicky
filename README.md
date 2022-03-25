@@ -9,6 +9,8 @@
   <img alt="top-languages" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwmicky&theme=blue-green&layout=compact&langs_count=6" />
 </a>
 
+https://github.com/rebelchris/rebelchris/blob/master/devcard.svg
+
 <table>
   <!-- <tr> <td>+</td> </tr> -->
   <!-- <a title="" target="_blank" href=""><img alt="" src="" /></a> -->
@@ -201,3 +203,11 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awwmicky&theme=github" 
   />
 </a>
+
+---
+
+<a href="https://app.daily.dev/awwmicky"><img 
+  width="400" 
+  alt="Michael F. Alvarez's Dev Card"
+  src="https://api.daily.dev/devcards/a7a23f38f34145b3952b090db5d0ce87.png?r=llp" 
+/></a>
