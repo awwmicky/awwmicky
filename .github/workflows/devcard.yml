@@ -1,5 +1,5 @@
 # ```yml
-name: DevCard - Daily.dev Stats Data
+name: Generate DevCard - Daily.dev Stats Data
 
 on:
   # auto run from Actions Tab
@@ -26,6 +26,7 @@ jobs:
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
           commit_branch: output
+          commit_filename: dist/devcard.svg
       # status: test/debug
       - run: git status
       # push the changes
@@ -39,6 +40,6 @@ jobs:
       - uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
-          build_dir: dist
+          # build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
