@@ -1,11 +1,5 @@
 # BADGES
 
-## My Info
-
-[Web-Page]: https://the-netflix-clone-app.netlify.app/
-[Badge-Web-Status]: https://img.shields.io/website-up-down-sucess-important/https/the-netflix-clone-app.netlify.app/.svg?style=for-the-badge
-[Badge-Status]: https://img.shields.io/badge/Status-In_Development-informational?style=for-the-badge
-
 ### Primary
 
 - Portfolio :: [ ![portfolio][portfolio-badge] ][portfolio-link]
@@ -142,7 +136,7 @@
 
 <details>
 <summary>
-<b>Experiment Stack</b>
+<b>Experimental Stack</b>
 </summary>
 <br />
 
