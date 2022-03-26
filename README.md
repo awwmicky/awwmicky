@@ -11,10 +11,34 @@ const Michael_F_Alvarez = {
 
 ## 📈 Stats
 
-<p>
-  <img alt="github-stats" height="175em" src="https://github-readme-stats.vercel.app/api?username=awwmicky&theme=blue-green&include_all_commits=true&count_private=true&show_icons=true" />
-  <img alt="top-languages" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwmicky&theme=blue-green&layout=compact&langs_count=6" />
-</p>
+<a 
+  target="_blank" 
+  title="open 'github-readme-stats' repo" 
+  href="https://github.com/anuraghazra/github-readme-stats#readme"
+>
+  <img 
+    height="175em" 
+    alt="github-stats" 
+    src="https://github-readme-stats.vercel.app/api?username=awwmicky&theme=blue-green&include_all_commits=true&count_private=true&show_icons=true" 
+  />
+  <img 
+    height="175em" 
+    alt="top-languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwmicky&theme=blue-green&layout=compact&langs_count=6" 
+  />
+</a>
+
+<a 
+  target="_blank" 
+  title="open 'generate snake' repo" 
+  href="https://github.com/Platane/snk#readme"
+>
+  <img 
+    width="100%"
+    alt="github-contribution-grid-snake" 
+    src="https://raw.githubusercontent.com/awwmicky/awwmicky/output/snake.svg" 
+  />
+</a>
 
 ---
 
