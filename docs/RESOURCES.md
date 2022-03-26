@@ -1,8 +1,15 @@
 # RESOURCES
 
+
+## README Examples
+
+- https://eddiehubcommunity.github.io/awesome-github-profiles/profiles
+
+---
+
 ## Badge URL
 
-- https://img.shields.io/
+- https://shields.io/
 - https://forthebadge.com/
 - https://badgesgenerator.com/
 
@@ -77,13 +84,12 @@ https://img.shields.io/badge/
 
 ```
 
-
-## README Examples
-
-- https://eddiehubcommunity.github.io/awesome-github-profiles/profiles
-
 ---
 
 ## Icons
+- https://simpleicons.org/
+  - https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 - https://devicon.dev/
-- https://github.com/gilbarbara/logos
+  - https://github.com/devicons/devicon
+- https://svgporn.com/
+  - https://github.com/gilbarbara/logos

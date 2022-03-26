@@ -5,8 +5,8 @@
 
 ```js
 const Michael_F_Alvarez = {
-  role: [ 'Front-End Engineer', 'UI/UX Developer' ],
-  tech_interest: [ 'JAM Stack', 'PWA', 'Micro-Animation' ],
+  roles: [ 'Front-End Engineer', 'UI/UX Developer' ],
+  tech_interests: [ 'JAM Stack', 'PWA', 'Micro-Animation' ],
   nickname: [ 'micky', 'zoda' ]
 }
 ```
@@ -19,6 +19,8 @@ const Michael_F_Alvarez = {
 [ ![linkedin][linkedin-badge] ][linkedin-link]
 [ ![gh-readme][gh-readme-badge] ][gh-readme-link] 
 [ ![gh-page][gh-page-badge] ][gh-page-link]
+
+<br />
 
 ## What is my current tech stack (Front-End)
 
@@ -37,35 +39,39 @@ const Michael_F_Alvarez = {
 [ ![tailwind-css][tailwind-css-badge] ][tailwind-css-link]
 [ ![framer-motion][framer-motion-badge] ][framer-motion-link]
 
-- Vite :: file bundler
-- React :: js framework
-- Twin Macro :: custom shortcut
-- Styled-Components :: css-to-jsx
-- Tailwind CSS :: ui library
-- Framer Motion :: animation library
+```
+Vite              :: file bundler
+React             :: js framework
+Twin Macro        :: babel shortcut
+Styled-Components :: css-to-jsx
+Tailwind CSS      :: ui library
+Framer Motion     :: animation library
+```
 
 ### API
 
-[ ![react-router][react-router-badge] ][react-router-link]
 [ ![json-server][json-server-badge] ][json-server-link]
+[ ![react-router][react-router-badge] ][react-router-link]
 [ ![zustand][zustand-badge] ][zustand-link]
 [ ![react-query][react-query-badge] ][react-query-link]
 [ ![react-hook-form][react-hook-form-badge] ][react-hook-form-link]
 [ ![zod][zod-badge] ][zod-link]
 [ ![ky][ky-badge] ][ky-link]
 
-- React Router :: url routing management
-- JSON Server :: static server DB
-- Zustand :: ui global state management
-- React Query :: api global state management
-- React Hook Form :: form state management
-- Zod :: form schema validation
-- Ky :: http request
+```
+JSON Server     :: static server DB
+React Router    :: url routing state management
+Zustand         :: ui global state management
+React Query     :: api global state management
+React Hook Form :: form state management
+Zod             :: form schema validation
+Ky              :: http request
+```
 
 </details>
 
 
-## What I really want to experiment with
+## What I really want to experiment (UI)
 
 <details>
 <summary>
@@ -81,6 +87,9 @@ const Michael_F_Alvarez = {
 - P5.js :: [ ![p5.js][p5.js-badge] ][p5.js-link]
 
 </details>
+
+<br />
+<hr />
 
 ## 📈 Stats
 
@@ -115,9 +124,9 @@ href="https://github.com/Platane/snk#readme">
 
 <!-- --- TOP ---  -->
 [ama-link]: https://github.com/awwmicky/awwmicky/issues/new
-[ama-badge]: https://img.shields.io/badge/Ask_me-anything-33CC99
-[info-link]: https://github.com/awwmicky/awwmicky/issues/new
-[info-badge]: https://img.shields.io/badge/Click_badge-Link_to_source-0000EE
+[ama-badge]: https://img.shields.io/badge/Ask_me-💭_Anything-33CC99
+[info-link]: https://shields.io/
+[info-badge]: https://img.shields.io/badge/Click_any_badge-🔗_Links_to_source-0000EE
 
 <!-- Portfolio -->
 [portfolio-link]: https://aww-micky.web.app/
@@ -143,94 +152,94 @@ href="https://github.com/Platane/snk#readme">
 <!-- Vite -->
 
 [vite-link]: https://vitejs.dev/
-[vite-badge]: https://img.shields.io/badge/Vite-B73BFE?logoColor=FFD62E&style=flat-square&logo=vite
+[vite-badge]: https://img.shields.io/badge/Vite-B73BFE?logoColor=FFD62E&logo=vite
 
 <!-- React -->
 
 [react-link]: https://reactjs.org/
-[react-badge]: https://img.shields.io/badge/React.js-20232A?logoColor=61DAFB&style=flat-square&logo=react
+[react-badge]: https://img.shields.io/badge/React.js-20232A?logoColor=61DAFB&logo=react
 
 <!-- Twin Macro -->
 
 [twin.macro-link]: https://www.npmjs.com/package/twin.macro
-[twin.macro-badge]: https://img.shields.io/badge/twin.macro-230000?logoColor=FFFFFF&style=flat-square&logo=npm
+[twin.macro-badge]: https://img.shields.io/badge/twin.macro-230000?logoColor=FFFFFF&logo=npm
 
 <!-- Styled-Components -->
 
 [styled-components-link]: https://styled-components.com/
-[styled-components-badge]: https://img.shields.io/badge/Styled--Components-DB7093?logoColor=FFFFFF&style=flat-square&logo=styled-components
+[styled-components-badge]: https://img.shields.io/badge/Styled--Components-DB7093?logoColor=FFFFFF&logo=styled-components
 
 <!-- Tailwind CSS -->
 
 [tailwind-css-link]: https://tailwindcss.com/
-[tailwind-css-badge]: https://img.shields.io/badge/TailwindCSS-38BDf8?&logoColor=FFFFFF&style=flat-square&logo=tailwind-css
+[tailwind-css-badge]: https://img.shields.io/badge/TailwindCSS-38BDf8?&logoColor=FFFFFF&logo=tailwind-css
 
 <!-- Framer Motion -->
 
 [framer-motion-link]: https://www.framer.com/motion/
-[framer-motion-badge]: https://img.shields.io/badge/Framer_Motion-000000?&logoColor=AE2AE2&style=flat-square&logo=framer
+[framer-motion-badge]: https://img.shields.io/badge/Framer_Motion-000000?&logoColor=AE2AE2&logo=framer
 
 <!-- React Router -->
 
 [react-router-link]: https://reactrouterdotcom.fly.dev/
-[react-router-badge]: https://img.shields.io/badge/React_Router-CA4245?logoColor=FFFFFF&style=flat-square&logo=react-router
+[react-router-badge]: https://img.shields.io/badge/React_Router-CA4245?logoColor=FFFFFF&logo=react-router
 
 <!-- JSON Server -->
 
 [json-server-link]: https://www.npmjs.com/package/json-server
-[json-server-badge]: https://img.shields.io/badge/json--server-230000?logoColor=FFFFFF&style=flat-square&logo=npm
+[json-server-badge]: https://img.shields.io/badge/json--server-230000?logoColor=FFFFFF&logo=npm
 
 <!-- Zustand -->
 
 [zustand-link]: https://docs.pmnd.rs/zustand/introduction
-[zustand-badge]: https://img.shields.io/badge/zustand-CD3837?logoColor=FFFFFF&style=flat-square&logo=npm
+[zustand-badge]: https://img.shields.io/badge/zustand-CD3837?logoColor=FFFFFF&logo=npm
 
 <!-- React Query -->
 
 [react-query-link]: https://react-query.tanstack.com/
-[react-query-badge]: https://img.shields.io/badge/React_Query-FF4154?logoColor=FFD94C&style=flat-square&logo=react-query
+[react-query-badge]: https://img.shields.io/badge/React_Query-FF4154?logoColor=FFD94C&logo=react-query
 
 <!-- React Hook Form -->
 
 [react-hook-form-link]: https://react-hook-form.com/
-[react-hook-form-badge]: https://img.shields.io/badge/react--hook--form-CD3837?logoColor=FFFFFF&style=flat-square&logo=npm
+[react-hook-form-badge]: https://img.shields.io/badge/react--hook--form-CD3837?logoColor=FFFFFF&logo=npm
 
 <!-- Zod -->
 
 [zod-link]: https://www.npmjs.com/package/zod
-[zod-badge]: https://img.shields.io/badge/zod-230000?logoColor=FFFFFF&style=flat-square&logo=npm
+[zod-badge]: https://img.shields.io/badge/zod-230000?logoColor=FFFFFF&logo=npm
 
 <!-- Ky -->
 
 [ky-link]: https://www.npmjs.com/package/ky
-[ky-badge]: https://img.shields.io/badge/ky-230000?logoColor=FFFFFF&style=flat-square&logo=npm
+[ky-badge]: https://img.shields.io/badge/ky-230000?logoColor=FFFFFF&logo=npm
 
 <!-- JAM Stack -->
 
 [jam-stack-link]: https://jamstack.org/
-[jam-stack-badge]: https://img.shields.io/badge/JAM_Stack-F00080?logoColor=FFFFFF&style=flat-square&logo=jamstack
+[jam-stack-badge]: https://img.shields.io/badge/JAM_Stack-F00080?logoColor=FFFFFF&logo=jamstack
 
 <!-- Storybook -->
 
 [storybook-link]: https://storybook.js.org/
-[storybook-badge]: https://img.shields.io/badge/Storybook-FF4785?logoColor=FFFFFF&style=flat-square&logo=storybook
+[storybook-badge]: https://img.shields.io/badge/Storybook-FF4785?logoColor=FFFFFF&logo=storybook
 
 <!-- Next.js -->
 
 [next.js-link]: https://nextjs.org/
-[next.js-badge]: https://img.shields.io/badge/Next.js-000000?logoColor=FFFFFF&style=flat-square&logo=next.js
+[next.js-badge]: https://img.shields.io/badge/Next.js-000000?logoColor=FFFFFF&logo=next.js
 
 <!-- Three.js -->
 
 [three.js-link]: https://threejs.org/
-[three.js-badge]: https://img.shields.io/badge/Three.js-black?logoColor=FFFFFF&style=flat-square&logo=three.js
+[three.js-badge]: https://img.shields.io/badge/Three.js-black?logoColor=FFFFFF&logo=three.js
 
 <!-- Green Sock (GSAP) -->
 
 [green-sock-link]: https://greensock.com/gsap/
-[green-sock-badge]: https://img.shields.io/badge/Green_Sock-88CE02?logoColor=000000&style=flat-square&logo=greensock
+[green-sock-badge]: https://img.shields.io/badge/Green_Sock-88CE02?logoColor=000000&logo=greensock
 
 <!-- P5.js -->
 
 [p5.js-link]: https://p5js.org/
-[p5.js-badge]: https://img.shields.io/badge/P5.js-ED225D?logoColor=FFFFFF&style=flat-square&logo=p5.js
+[p5.js-badge]: https://img.shields.io/badge/P5.js-ED225D?logoColor=FFFFFF&logo=p5.js
