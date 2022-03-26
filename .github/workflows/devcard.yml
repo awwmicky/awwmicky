@@ -21,7 +21,7 @@ jobs:
       # repo under $GITHUB_WORKSHOP
       - uses: actions/checkout@master
       # generate devcard svg
-      - uses: dailydotdev/action-devcard@v2.0.5
+      - uses: dailydotdev/action-devcard@2.0.5
         id: devcard-svg
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
@@ -36,7 +36,7 @@ jobs:
           branch: main
           force: true
       # target branch 'output'
-      - uses: crazy-max/ghaction-github-pages@v2.5.0
+      - uses: crazy-max/ghaction-github-pages@master
         with:
           target_branch: output
           build_dir: dist
