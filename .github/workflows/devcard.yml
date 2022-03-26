@@ -1,36 +1,40 @@
-name: Generate Snake - GitHub Contribute Data
+# ```yml
+name: DevCard - Daily.dev Stats Data
 
 on:
+  # auto run from Actions Tab
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+    - develop
   schedule:
-    - cron: "* */24 * * *" # execute every 24 hours
-  workflow_dispatch: # auto run from Actions Tab
+  # run every 2 weeks
+  - cron: "0 0 * * *"
+  # - cron: 0 0 * * Sun [ $(expr $(date +%W) % 2) -eq 1 ]
 
 jobs:
-  build:
-    name: Jobs to update data
+  DevCard:
+    name: Generate DevCard 🎴
     runs-on: ubuntu-latest
     steps:
       # repo under $GITHUB_WORKSHOP
-      - uses: actions/checkout@v2
-      # generate snake gif
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: actions/checkout@master
+      # generate devcard svg
+      - uses: dailydotdev/action-devcard@v2.0.5
+        id: devcard-svg
         with:
-          github_user_name: awwmicky
-          # generate files into branch 'output'
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          devcard_id: ${{ secrets.DEVCARD_ID }}
+          commit_branch: output
       # status: test/debug
       - run: git status
-
       # push the changes
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
-
       # target branch 'output'
       - uses: crazy-max/ghaction-github-pages@v2.5.0
         with:

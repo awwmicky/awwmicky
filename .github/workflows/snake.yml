@@ -1,0 +1,46 @@
+# ```yml
+name: Generate Snake - GitHub Contribute Data
+
+on:
+  # auto run from Actions Tab
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+    - develop
+  # run every 2 weeks
+  schedule:
+  - cron: "0 0 * * *"
+  # - cron: 0 0 * * Sun [ $(expr $(date +%W) % 2) -eq 1 ]
+
+jobs:
+  Snake:
+    name: Generate Snake 🐍
+    runs-on: ubuntu-latest
+    steps:
+      # repo under $GITHUB_WORKSHOP
+      - uses: actions/checkout@master
+      # generate snake gif
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # generate files into branch 'output'
+          gif_out_path: dist/snake.gif
+          svg_out_path: dist/snake.svg
+      # status: test/debug
+      - run: git status
+      # push the changes
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
+      # target branch 'output'
+      - uses: crazy-max/ghaction-github-pages@v2.5.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

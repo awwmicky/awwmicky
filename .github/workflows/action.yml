@@ -1,0 +1,31 @@
+name: Action 🎲 # 1
+
+on:
+  push:
+    branches:
+    - main
+    - develop
+
+jobs:
+  Action:
+    name: Action 🎲
+    runs-on: ubuntu-latest
+    steps:
+    - name: Start 👟
+      run: |
+        echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+        echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+    - name: ⚪ Checkout repo
+      uses: actions/checkout@master
+    - run: |
+        echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
+        echo "📀 The workflow is now ready to test your code on the runner."
+    - name: List files in the repository
+      run: |
+        ls ${{ github.workspace }}
+    - name: Finish 🏁 (1)
+      env: 
+        # environment variable :: secret
+        MY_NAME: ${{ secrets.MY_NAME }}
+      run: |
+        echo "🍏 This job's status is ${{ job.status }}. Congrats you are good to go $MY_NAME"
