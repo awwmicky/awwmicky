@@ -5,17 +5,17 @@
 ```js
 const Michael_F_Alvarez = {
   role: [ 'Front-End Engineer', 'UI/UX Developer' ],
-  tech_interest: [ 'JAM Stack', 'PWA', 'Micro-Animation' ]
+  tech_interest: [ 'JAM Stack', 'PWA', 'Micro-Animation' ],
+  nickname: [ 'micky', 'zoda' ]
 }
 ```
 
 ## 📈 Stats
 
 <a 
-  target="_blank" 
-  title="open 'github-readme-stats' repo" 
-  href="https://github.com/anuraghazra/github-readme-stats#readme"
->
+target="_blank" 
+title="open 'github-readme-stats' repo" 
+href="https://github.com/anuraghazra/github-readme-stats#readme">
   <img 
     height="175em" 
     alt="github-stats" 
@@ -29,10 +29,9 @@ const Michael_F_Alvarez = {
 </a>
 
 <a 
-  target="_blank" 
-  title="open 'generate snake' repo" 
-  href="https://github.com/Platane/snk#readme"
->
+target="_blank" 
+title="open 'generate snake' repo" 
+href="https://github.com/Platane/snk#readme">
   <img 
     width="100%"
     alt="github-contribution-grid-snake" 
@@ -43,4 +42,4 @@ const Michael_F_Alvarez = {
 ---
 
 [ama-link]: https://github.com/awwmicky/awwmicky/issues/new
-[ama-badge]: https://img.shields.io/badge/Ask_me-anything-1ABC9C
+[ama-badge]: https://img.shields.io/badge/Ask_me-anything-33CC99
