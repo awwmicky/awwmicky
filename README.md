@@ -1,6 +1,7 @@
 # Hi, I'm Micky <img alt="👋" width="30" src="./assets/gifs/wave.gif" />
 
 [ ![Ask Me Anything][ama-badge] ][ama-link]
+[ ![Click Info][info-badge] ][info-link]
 
 ```js
 const Michael_F_Alvarez = {
@@ -112,8 +113,11 @@ href="https://github.com/Platane/snk#readme">
 
 ---
 
+<!-- --- TOP ---  -->
 [ama-link]: https://github.com/awwmicky/awwmicky/issues/new
 [ama-badge]: https://img.shields.io/badge/Ask_me-anything-33CC99
+[info-link]: https://github.com/awwmicky/awwmicky/issues/new
+[info-badge]: https://img.shields.io/badge/Click_badge-Link_to_source-0000EE
 
 <!-- Portfolio -->
 [portfolio-link]: https://aww-micky.web.app/
