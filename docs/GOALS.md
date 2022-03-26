@@ -16,3 +16,12 @@
 ## As an Close, what should it have?
 
 - [ ] gif of snake, snapshot of repo
+
+---
+
+## Question
+
+- in GH actions, how do I generate image
+  - in different branch `output`
+  - in new folder `dist/`
+  - and save it

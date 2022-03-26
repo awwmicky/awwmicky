@@ -1,4 +1,4 @@
-# ```yml
+```yml
 name: Generate DevCard - Daily.dev Stats Data
 
 on:
@@ -8,10 +8,8 @@ on:
     branches:
     - main
     - develop
-  # run every 2 weeks
   schedule:
   - cron: "0 0 * * *"
-  # - cron: 0 0 * * Sun [ $(expr $(date +%W) % 2) -eq 1 ]
 
 jobs:
   DevCard:
