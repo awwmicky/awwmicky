@@ -5,8 +5,6 @@
 
 - https://eddiehubcommunity.github.io/awesome-github-profiles/profiles
 
----
-
 ## Badge URL
 
 - https://shields.io/
@@ -26,47 +24,6 @@
 
 - https://github.com/aleen42/badges
 - https://naereen.github.io/badges/
-
----
-
-## DevCard
-
-- https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile
-
-## Snake Generator
-- https://platane.github.io/snk
-- https://github.com/Platane/snk
-- https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
-
-## other
-
-- Metrics embed
-  - https://github.com/marketplace/actions/metrics-embed
-- 
-
-## GitHub Status (Image)
-
-- github-readme-stats
-  - https://github.com/anuraghazra/github-readme-stats
-- github-profile-summary-cards
-  - https://github.com/vn7n24fzkq/github-profile-summary-cards
-- github-readme-activity-graph
-  - https://github.com/Joel-Nickson/github-readme-activity-graph
-
-```md
-<!-- github-readme-stats -->
-https://github-readme-stats.vercel.app/api?username={USERNAME}
-https://github-readme-stats.vercel.app/api/top-langs/?username={USERNAME}
-
-<!-- github-profile-summary-cards -->
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={USERNAME}
-
-<!-- github-readme-activity-graph -->
-https://activity-graph.herokuapp.com/graph?username={USERNAME}
-
-<!-- github-readme-streak-stats -->
-https://github-readme-streak-stats.herokuapp.com/?user={USERNAME}
-```
 
 ---
 
@@ -93,3 +50,65 @@ https://img.shields.io/badge/
   - https://github.com/devicons/devicon
 - https://svgporn.com/
   - https://github.com/gilbarbara/logos
+
+
+---
+---
+---
+
+## GitHub Status (Image)
+
+- github-readme-stats
+  - https://github.com/anuraghazra/github-readme-stats
+- github-profile-summary-cards
+  - https://github.com/vn7n24fzkq/github-profile-summary-cards
+- github-readme-activity-graph
+  - https://github.com/Joel-Nickson/github-readme-activity-graph
+
+```md
+<!-- github-readme-stats -->
+https://github-readme-stats.vercel.app/api?username={USERNAME}
+https://github-readme-stats.vercel.app/api/top-langs/?username={USERNAME}
+
+<!-- github-profile-summary-cards -->
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={USERNAME}
+
+<!-- github-readme-activity-graph -->
+https://activity-graph.herokuapp.com/graph?username={USERNAME}
+
+<!-- github-readme-streak-stats -->
+https://github-readme-streak-stats.herokuapp.com/?user={USERNAME}
+```
+
+## Typing (Render)
+
+- https://github.com/DenverCoder1/readme-typing-svg#readme
+- https://readme-typing-svg.herokuapp.com/demo/
+
+## Capsule (Render)
+
+- https://github.com/kyechan99/capsule-render
+- https://awesomeopensource.com/project/kyechan99/capsule-render
+
+## Profile Counter (Render)
+
+- https://profile-counter.glitch.me/{abhisheks008}/count.svg
+
+## Skill Icons (Render)
+
+- https://github.com/tandpfun/skill-icons#readme
+- https://skillicons.dev/
+
+## Snake (Generator)
+- https://platane.github.io/snk
+- https://github.com/Platane/snk
+- https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
+
+## DevCard (Generator)
+
+- https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile
+
+## other
+
+- Metrics embed
+  - https://github.com/marketplace/actions/metrics-embed

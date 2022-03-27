@@ -5,13 +5,17 @@
 
 ```js
 const Michael_F_Alvarez = {
-  roles: [ 'Front-End Engineer', 'UI/UX Developer' ],
-  tech_interests: [ 'JAM Stack', 'PWA', 'Micro-Animation' ],
-  nickname: [ 'micky', 'zoda' ]
+  roles: [ 'Front-End Engineer', 'UI/UX Developer', 'Design Thinker' ],
+  topics_of_interest: [ 'JAM Stack', 'Serverless', 'PWA' ],
+  life_goals: [ 'curious', 'collaborative', 'creative' ],
+  nickname: ('micky' || 'zoda'),
+  pun: '~ you can objectify me ~'
 }
+// (╯°□°)╯彡 ┻━┻ 
+//  ๑๑๑  ﾐ ʕ•ᴥ•;ʔ
 ```
 
-## Learn More about me <img alt="😎" width="30" src="./assets/gifs/sunglasses.gif" />
+## Learn more about me <img alt="😎" width="30" src="./assets/gifs/sunglasses.gif" />
 
 [ ![portfolio][portfolio-badge] ][portfolio-link]
 [ ![email][email-badge] ][email-link]
@@ -21,6 +25,18 @@ const Michael_F_Alvarez = {
 [ ![gh-page][gh-page-badge] ][gh-page-link]
 
 <br />
+
+## My daily tools <img alt="🌎" width="30" src="./assets/gifs/earth.gif" />
+
+<a 
+target="_blank" 
+title="open 'skill icons' repo" 
+href="https://github.com/tandpfun/skill-icons#readme">
+  <img 
+  alt="skill-icons" 
+  src="https://skillicons.dev/icons?i=react,next,tailwind,figma,git" 
+  />
+</a>
 
 ## What is my current tech stack (Front-End)
 
@@ -89,7 +105,8 @@ Ky              :: http request
 </details>
 
 <br />
-<hr />
+
+![<hr />][hr-snapshot]
 
 ## 📈 Stats
 
@@ -98,14 +115,14 @@ target="_blank"
 title="open 'github-readme-stats' repo" 
 href="https://github.com/anuraghazra/github-readme-stats#readme">
   <img 
-    height="175em" 
-    alt="github-stats" 
-    src="https://github-readme-stats.vercel.app/api?username=awwmicky&theme=blue-green&include_all_commits=true&count_private=true&show_icons=true" 
+  height="175em" 
+  alt="github-stats" 
+  src="https://github-readme-stats.vercel.app/api?username=awwmicky&theme=blue-green&include_all_commits=true&count_private=true&show_icons=true" 
   />
   <img 
-    height="175em" 
-    alt="top-languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwmicky&theme=blue-green&layout=compact&langs_count=6" 
+  height="175em" 
+  alt="top-languages" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwmicky&theme=blue-green&layout=compact&langs_count=6" 
   />
 </a>
 
@@ -114,13 +131,29 @@ target="_blank"
 title="open 'generate snake' repo" 
 href="https://github.com/Platane/snk#readme">
   <img 
-    width="100%"
-    alt="github-contribution-grid-snake" 
-    src="https://raw.githubusercontent.com/awwmicky/awwmicky/output/snake.svg" 
+  width="100%"
+  alt="github-contribution-grid-snake" 
+  src="https://raw.githubusercontent.com/awwmicky/awwmicky/output/snake.svg" 
   />
 </a>
 
+<center>
+  <a 
+  target="_blank" 
+  title="open 'readme typing svg' repo"
+  href="https://github.com/DenverCoder1/readme-typing-svg#readme">
+    <img
+    alt="readme-typing"
+    src="https://readme-typing-svg.herokuapp.com?duration=5500&color=39FF14&background=FFFFFF00&hCenter=true&vCenter=true&width=450&lines=Thanks+for+visiting!+Enjoy+your+day+~"
+    />
+  </a>
+</center>
+
 ---
+
+<!-- --- ACC --- -->
+
+[hr-snapshot]: https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5
 
 <!-- --- TOP ---  -->
 [ama-link]: https://github.com/awwmicky/awwmicky/issues/new
