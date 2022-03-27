@@ -100,7 +100,7 @@
 - Tailwind CSS :: ui library :: [ ![tailwind-css][tailwind-css-badge] ][tailwind-css-link]
 
 [tailwind-css-link]: https://tailwindcss.com/
-[tailwind-css-badge]: https://img.shields.io/badge/TailwindCSS-38BDf8?&logoColor=FFFFFF&style=flat-square&logo=tailwind-css
+[tailwind-css-badge]: https://img.shields.io/badge/Tailwind_CSS-38BDf8?&logoColor=FFFFFF&style=flat-square&logo=tailwind-css
 
 - Framer Motion :: animation library :: [ ![framer-motion][framer-motion-badge] ][framer-motion-link]
 
@@ -148,7 +148,7 @@
 </details>
 
 
-## What I really want to experiment with
+## What I really want to experiment (UI)
 
 <details>
 <summary>

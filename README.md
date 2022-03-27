@@ -5,11 +5,11 @@
 
 ```js
 const Michael_F_Alvarez = {
-  roles: [ 'Front-End Engineer', 'UI/UX Developer', 'Design Thinker' ],
-  topics_of_interest: [ 'JAM Stack', 'Serverless', 'PWA' ],
-  life_goals: [ 'curious', 'collaborative', 'creative' ],
-  nickname: ('micky' || 'zoda'),
-  pun: '~ you can objectify me ~'
+  roles      : [ 'Front-End Engineer', 'UI/UX Developer', 'Design Thinker' ],
+  interests  : [ 'JAM Stack', 'Serverless', 'PWA' ],
+  life_goals : [ 'curious', 'collaborative', 'creative' ],
+  nickname   : ('micky' || 'zoda'),
+  pun        : '~ you can objectify me ~'
 }
 ```
 
@@ -42,7 +42,7 @@ href="https://github.com/tandpfun/skill-icons#readme">
 
 <details>
 <summary>
-<b>Tech Stack</b>
+<code>Tech Stack</code>
 </summary>
 <br />
 
@@ -91,7 +91,7 @@ Ky              :: http request
 
 <details>
 <summary>
-<b>Experimental Stack</b>
+<code>Experimental Stack</code>
 </summary>
 <br />
 
@@ -153,7 +153,7 @@ href="https://github.com/Platane/snk#readme">
   </a>
 </div>
 
----
+----
 
 <!-- --- ACC --- -->
 
@@ -209,7 +209,7 @@ href="https://github.com/Platane/snk#readme">
 <!-- Tailwind CSS -->
 
 [tailwind-css-link]: https://tailwindcss.com/
-[tailwind-css-badge]: https://img.shields.io/badge/TailwindCSS-38BDf8?&logoColor=FFFFFF&logo=tailwind-css
+[tailwind-css-badge]: https://img.shields.io/badge/Tailwind_CSS-38BDf8?&logoColor=FFFFFF&logo=tailwind-css
 
 <!-- Framer Motion -->
 

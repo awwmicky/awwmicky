@@ -25,3 +25,10 @@
   - in different branch `output`
   - in new folder `dist/`
   - and save it
+
+<!-- 
+- ⚡ : blazing fast
+- 🩸 : bleeding edge
+- 🌱 : hollistic approach
+- 🤯 : game plan | gamechanging | endgame
+-->
