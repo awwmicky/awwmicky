@@ -1,6 +1,12 @@
 # BADGES
 
-### Primary
+## My Contact Info
+
+<details>
+<summary>
+<code>Primary</code>
+</summary>
+<br />
 
 - Portfolio :: [ ![portfolio][portfolio-badge] ][portfolio-link]
 
@@ -32,7 +38,15 @@
 [gh-readme-badge]: https://img.shields.io/badge/GH_README-181717?logoColor=FFFFFF&style=for-the-badge&logo=github
 [gh-page-badge]: https://img.shields.io/badge/GH_PAGE-181717?logoColor=FFFFFF&style=for-the-badge&logo=github
 
-### Secondary
+</details>
+
+
+
+<details>
+<summary>
+<code>Secondary</code>
+</summary>
+<br />
 
 - REPL.it :: [ ![replt.it][replt.it-badge] ][replt.it-link]
 
@@ -49,13 +63,15 @@
 [front-end-mentor.io-link]: https://www.frontendmentor.io/profile/awwmicky
 [front-end-mentor.io-badge]: https://img.shields.io/badge/Front--End_Mentor.io-000000?logoColor=FFFFFF&style=for-the-badge&logo=_
 
+</details>
+
 ---
 
 ## What is my current tech stack (Front-End)
 
 <details>
 <summary>
-<b>Tech Stack</b>
+<code>Tech Stack</code>
 </summary>
 <br />
 
@@ -136,7 +152,7 @@
 
 <details>
 <summary>
-<b>Experimental Stack</b>
+<code>Experimental Stack</code>
 </summary>
 <br />
 
@@ -170,13 +186,23 @@
 [p5.js-link]: https://p5js.org/
 [p5.js-badge]: https://img.shields.io/badge/P5.js-ED225D?logoColor=FFFFFF&style=flat-square&logo=p5.js
 
+- SVG (Animation) :: [ ![svg][svg-badge] ][svg-link]
+
+[svg-link]: https://www.w3.org/Graphics/SVG/
+[svg-badge]: https://img.shields.io/badge/SVG-FFB13B?logoColor=FFFFFF&style=flat-square&logo=svg
+
+- WebGL :: [ ![webgl][webgl-badge] ][webgl-link]
+
+[webgl-link]: https://get.webgl.org/
+[webgl-badge]: https://img.shields.io/badge/WebGL-990000?logoColor=FFFFFF&style=flat-square&logo=webgl
+
 </details>
 
 ## What I have experienced using
 
 <details>
 <summary>
-<b>Technologies</b>
+<code>Technologies</code>
 </summary>
 <br />
 
@@ -320,7 +346,7 @@
 
 <details>
 <summary>
-<b>Tools</b>
+<code>Tools</code>
 </summary>
 <br />
 
@@ -460,7 +486,7 @@
 
 <details>
 <summary>
-<b>Technologies</b>
+<code>Technologies</code>
 </summary>
 <br />
 
@@ -498,11 +524,6 @@
 
 [vue.js-link]: https://vuejs.org/
 [vue.js-badge]: https://img.shields.io/badge/Vue.js-35495E?logoColor=4FC08D&style=flat-square&logo=vue.js
-
-- SVG :: [ ![svg][svg-badge] ][svg-link]
-
-[svg-link]: https://www.w3.org/Graphics/SVG/
-[svg-badge]: https://img.shields.io/badge/SVG-FFB13B?logoColor=FFFFFF&style=flat-square&logo=svg
 
 
 ## Back-End
@@ -569,9 +590,9 @@
 
 ## What I am interested to learn
 
-<details open>
+<details>
 <summary>
-<b>Technologies</b>
+<code>Technologies</code>
 </summary>
 <br />
 
@@ -669,46 +690,46 @@
 
 - Jasmine :: [ ![jasmine][jasmine-badge] ][jasmine-link]
 
-[jasmine-link]: 
-[jasmine-badge]: 
+[jasmine-link]: https://jasmine.github.io/
+[jasmine-badge]: https://img.shields.io/badge/Jasmine-8A4182?logoColor=FFFFFF&style=flat-square&logo=jasmine
 
 - Jest :: [ ![jest][jest-badge] ][jest-link]
 
-[jest-link]: 
-[jest-badge]: 
+[jest-link]: https://jestjs.io/
+[jest-badge]: https://img.shields.io/badge/Jest-C21325?logoColor=FFFFFF&style=flat-square&logo=jest
 
 - Cypress :: [ ![cypress][cypress-badge] ][cypress-link]
 
-[cypress-link]: 
-[cypress-badge]: 
+[cypress-link]: https://www.cypress.io/
+[cypress-badge]: https://img.shields.io/badge/Cypress-17202C?logoColor=FFFFFF&style=flat-square&logo=cypress
 
 - Storybook :: [ ![storybook][storybook-badge] ][storybook-link]
 
-[storybook-link]: 
-[storybook-badge]: 
-
-- PlayWright :: [ ![playwright][playwright-badge] ][playwright-link]
-
-[playwright-link]: 
-[playwright-badge]: 
+[storybook-link]: https://storybook.js.org/
+[storybook-badge]: https://img.shields.io/badge/Storybook-FF4785?logoColor=FFFFFF&style=flat-square&logo=storybook
 
 
 ### Analytics
 
 - Google Analytics :: [ ![google-analytics][google-analytics-badge] ][google-analytics-link]
 
-[google-analytics-link]: 
-[google-analytics-badge]: 
+[google-analytics-link]: https://marketingplatform.google.com/about/analytics/
+[google-analytics-badge]: https://img.shields.io/badge/Google_Analytics-E37400?logoColor=FFFFFF&style=flat-square&logo=Google-Analytics
 
 - Google Tag Manager :: [ ![google-tag-manager][google-tag-manager-badge] ][google-tag-manager-link]
 
-[google-tag-manager-link]: 
-[google-tag-manager-badge]: 
+[google-tag-manager-link]: https://marketingplatform.google.com/about/tag-manager/
+[google-tag-manager-badge]: https://img.shields.io/badge/Google_Tag_Manager-246FDB?logoColor=FFFFFF&style=flat-square&logo=Google-Tag-Manager
 
 - Google Ads :: [ ![google-ads][google-ads-badge] ][google-ads-link]
 
-[google-ads-link]: 
-[google-ads-badge]: 
+[google-ads-link]: https://ads.google.com/home/how-it-works/
+[google-ads-badge]: https://img.shields.io/badge/Google_Ads-4285F4?logoColor=FFFFFF&style=flat-square&logo=Google-Ads
+
+- Google Adsense :: [ ![google-adsense][google-adsense-badge] ][google-adsense-link]
+
+[google-adsense-link]: https://www.google.com/adsense/start/
+[google-adsense-badge]: https://img.shields.io/badge/Google_AdSense-4285F4?logoColor=FFFFFF&style=flat-square&logo=Google-AdSense
 
 </details>
 
@@ -716,7 +737,7 @@
 
 <details>
 <summary>
-<b>Full Stack</b>
+<code>Full Stack</code>
 </summary>
 <br />
 
@@ -724,105 +745,89 @@
 
 - TypeScript :: [ ![typescript][typescript-badge] ][typescript-link]
 
-[typescript-link]: 
-[typescript-badge]: 
+[typescript-link]: https://www.typescriptlang.org/
+[typescript-badge]: https://img.shields.io/badge/TypeScript-3178C6?logoColor=FFFFFF&style=flat-square&logo=typescript
 
 - GraphQL :: [ ![graphql][graphql-badge] ][graphql-link]
 
-[graphql-link]: 
-[graphql-badge]: 
+[graphql-link]: https://graphql.org/
+[graphql-badge]: https://img.shields.io/badge/GraphQL-E10098?logoColor=FFFFFF&style=flat-square&logo=graphql
 
 - Apollo :: [ ![apollo][apollo-badge] ][apollo-link]
 
-[apollo-link]: 
-[apollo-badge]: 
+[apollo-link]: https://www.apollographql.com/
+[apollo-badge]: https://img.shields.io/badge/Apollo-311C87?logoColor=FFFFFF&style=flat-square&logo=apollo-graphql
 
 
 ### Front-End
 
 - Redux :: [ ![redux][redux-badge] ][redux-link]
 
-[redux-link]: 
-[redux-badge]: 
+[redux-link]: https://redux.js.org/
+[redux-badge]: https://img.shields.io/badge/Redux-764ABC?logoColor=FFFFFF&style=flat-square&logo=redux
 
 - Redux Toolkit :: [ ![redux-toolkit][redux-toolkit-badge] ][redux-toolkit-link]
 
-[redux-toolkit-link]: 
-[redux-toolkit-badge]: 
+[redux-toolkit-link]: https://redux-toolkit.js.org/
+[redux-toolkit-badge]: https://img.shields.io/badge/Redux--Toolkit-764ABC?logoColor=FFFFFF&style=flat-square&logo=redux
 
-- Redux Saga :: [ ![redux-sSaga][redux-sSaga-badge] ][redux-sSaga-link]
+- Redux Saga :: [ ![redux-saga][redux-saga-badge] ][redux-saga-link]
 
-[redux-sSaga-link]: 
-[redux-sSaga-badge]: 
+[redux-saga-link]: https://redux-saga.js.org/
+[redux-saga-badge]: https://img.shields.io/badge/Redux--Saga-86d46b?logoColor=FFFFFF&style=flat-square&logo=redux-saga
 
 
 ### Back-End
 
 - Deno :: [ ![deno][deno-badge] ][deno-link]
 
-[deno-link]: 
-[deno-badge]: 
+[deno-link]: https://deno.land/
+[deno-badge]: https://img.shields.io/badge/Deno-000000?logoColor=FFFFFF&style=flat-square&logo=deno
 
 - Nest.js :: [ ![nest.js][nest.js-badge] ][nest.js-link]
 
-[nest.js-link]: 
-[nest.js-badge]: 
+[nest.js-link]: https://nestjs.com/
+[nest.js-badge]: https://img.shields.io/badge/Nest.js-E0234E?logoColor=FFFFFF&style=flat-square&logo=nest.js
 
 - Fastify.js :: [ ![fastify.js][fastify.js-badge] ][fastify.js-link]
 
-[fastify.js-link]: 
-[fastify.js-badge]: 
+[fastify.js-link]: https://www.fastify.io/
+[fastify.js-badge]: https://img.shields.io/badge/Fastify.js-000000?logoColor=FFFFFF&style=flat-square&logo=fastify
 
 - Go Lang :: [ ![go-lang][go-lang-badge] ][go-lang-link]
 
-[go-lang-link]: 
-[go-lang-badge]: 
+[go-lang-link]: https://go.dev/
+[go-lang-badge]: https://img.shields.io/badge/Go_Lang-00ADD8?logoColor=FFFFFF&style=flat-square&logo=go
 
 
-### Database (+ ODM/ORM)
+### Database
 
 - Redis :: [ ![redis][redis-badge] ][redis-link]
 
-[redis-link]: 
-[redis-badge]: 
+[redis-link]: https://redis.io/
+[redis-badge]: https://img.shields.io/badge/Redis-DC382D?logoColor=FFFFFF&style=flat-square&logo=redis
 
 - MariaDB :: [ ![mariadb][mariadb-badge] ][mariadb-link]
 
-[mariadb-link]: 
-[mariadb-badge]: 
+[mariadb-link]: https://mariadb.org/
+[mariadb-badge]: https://img.shields.io/badge/MariaDB-003545?logoColor=FFFFFF&style=flat-square&logo=mariadb
 
 - Fauna :: [ ![fauna][fauna-badge] ][fauna-link]
 
-[fauna-link]: 
-[fauna-badge]: 
+[fauna-link]: https://fauna.com/
+[fauna-badge]: https://img.shields.io/badge/Fauna-3F00A5?logoColor=FFFFFF&style=flat-square&logo=_
+
+### ODM | ORM
 
 - Prisma :: [ ![prisma][prisma-badge] ][prisma-link]
 
-[prisma-link]: 
-[prisma-badge]: 
+[prisma-link]: https://www.prisma.io/
+[prisma-badge]: https://img.shields.io/badge/Prisma-2D3748?logoColor=FFFFFF&style=flat-square&logo=prisma
 
+- TypeORM :: [ ![typeorm][typeorm-badge] ][typeorm-link]
 
-### Other
-
-- Socket.io :: [ ![socket.io][socket.io-badge] ][socket.io-link]
-
-[socket.io-link]: 
-[socket.io-badge]: 
-
-- Docker :: [ ![docker][docker-badge] ][docker-link]
-
-[docker-link]: 
-[docker-badge]: 
-
-- Ngrok :: [ ![ngrok][ngrok-badge] ][ngrok-link]
-
-[ngrok-link]: https://ngrok.com/
-[ngrok-badge]: 
-
-- Red Hat :: [ ![red-hat][red-hat-badge] ][red-hat-link]
-
-[red-hat-link]: 
-[red-hat-badge]: 
+[typeorm-link]: https://typeorm.io/
+[typeorm-badge]: https://img.shields.io/badge/TypeORM-FE0902?logoColor=FFFFFF&style=flat-square&logo=_
 
 </details>
 
@@ -830,19 +835,13 @@
 
 <details>
 <summary>
-<b>Alternative</b>
+<code>Alternative</code>
 </summary>
 <br />
 
-### Topic
-
-- Headless 
-- Serverless 
-- Monolith 
-
 ### Desktop
 
-- Electron.js :: [ ![electron.js][electron.js-badge] ][electron.js-link]
+[ ![electron.js][electron.js-badge] ][electron.js-link]
 
 [electron.js-link]: https://www.electronjs.org/
 [electron.js-badge]: https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white
@@ -850,12 +849,12 @@
 
 ### Mobile
 
-- Flutter :: [ ![flutter][flutter-badge] ][flutter-link]
+[ ![flutter][flutter-badge] ][flutter-link]
 
 [flutter-link]: https://flutter.dev/
 [flutter-badge]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white
 
-- Dart :: [ ![dart][dart-badge] ][dart-link]
+[ ![dart][dart-badge] ][dart-link]
 
 [dart-link]: https://dart.dev/
 [dart-badge]: https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white
@@ -863,27 +862,47 @@
 
 ### Web3
 
-- Solidity :: [ ![solidity][solidity-badge] ][solidity-link]
+[ ![solidity][solidity-badge] ][solidity-link]
 
 [solidity-link]: https://soliditylang.org/
 [solidity-badge]: https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white
 
 ### Other
 
-- Gatsby.js
-  - https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white
+- general
 
-- Fast API
-  - https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
+  ![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-- Flask
-  - https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
+  ![WASM](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)
 
-- Django
-  - https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white
+  ![Gatsby.js](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 
-- DjangoREST
-  - https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray
+  ![WebRTC](https://img.shields.io/badge/WebRTC-333333.svg?style=for-the-badge&logo=WebRTC&logoColor=white)
+
+  ![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
+- python
+  
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+  ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+
+- graphql
+
+  ![Dgraph](https://img.shields.io/badge/Dgraph-E50695.svg?style=for-the-badge&logo=Dgraph&logoColor=white)
+
+  ![Hasura](https://img.shields.io/badge/Hasura-1EB4D4.svg?style=for-the-badge&logo=Hasura&logoColor=white)
+
+- DevOps
+
+  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+
+  ![Nginx](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
+
+  ![Ngrok](https://img.shields.io/badge/ngrok-1F1E37.svg?style=for-the-badge&logo=ngrok&logoColor=white)
+
+  ![Red Hat](https://img.shields.io/badge/Red_Hat_Open_Shift-EE0000.svg?style=for-the-badge&logo=Red-Hat-Open-Shift&logoColor=white)
 
 </details>
 
@@ -893,7 +912,7 @@
 
 <details>
 <summary>
-<b>General</b>
+<code>General</code>
 </summary>
 <br />
 
@@ -933,7 +952,7 @@
 
 <details>
 <summary>
-<b>Overall</b>
+<code>Overall</code>
 </summary>
 <br />
 

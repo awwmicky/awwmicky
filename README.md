@@ -11,9 +11,9 @@ const Michael_F_Alvarez = {
   nickname: ('micky' || 'zoda'),
   pun: '~ you can objectify me ~'
 }
-// (╯°□°)╯彡 ┻━┻ 
-//  ๑๑๑  ﾐ ʕ•ᴥ•;ʔ
 ```
+
+`(╯°□°)╯彡 ┻━┻ `  `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
 
 ## Learn more about me <img alt="😎" width="30" src="./assets/gifs/sunglasses.gif" />
 
@@ -95,12 +95,16 @@ Ky              :: http request
 </summary>
 <br />
 
-- JAM Stack :: [ ![jam-stack][jam-stack-badge] ][jam-stack-link]
-- Storybook :: [ ![storybook][storybook-badge] ][storybook-link]
-- Next.js :: [ ![next.js][next.js-badge] ][next.js-link]
-- Three.js :: [ ![three.js][three.js-badge] ][three.js-link]
-- Green Sock (GSAP) :: [ ![green-sock][green-sock-badge] ][green-sock-link]
-- P5.js :: [ ![p5.js][p5.js-badge] ][p5.js-link]
+| | |
+| ---- | ---- |
+| JAM Stack | [ ![jam-stack][jam-stack-badge] ][jam-stack-link] |
+| Storybook | [ ![storybook][storybook-badge] ][storybook-link] |
+| Next.js | [ ![next.js][next.js-badge] ][next.js-link] |
+| Three.js | [ ![three.js][three.js-badge] ][three.js-link] |
+| Green Sock (GSAP) | [ ![green-sock][green-sock-badge] ][green-sock-link] |
+| P5.js | [ ![p5.js][p5.js-badge] ][p5.js-link] |
+| SVG (Animation) | [ ![svg][svg-badge] ][svg-link] |
+| WebGL | [ ![webgl][webgl-badge] ][webgl-link] |
 
 </details>
 
@@ -108,7 +112,7 @@ Ky              :: http request
 
 ![<hr />][hr-snapshot]
 
-## 📈 Stats
+## 📈 GH Stats
 
 <a 
 target="_blank" 
@@ -177,8 +181,8 @@ href="https://github.com/Platane/snk#readme">
 <!-- GitHub -->
 [gh-readme-link]: https://github.com/awwmicky/awwmicky
 [gh-page-link]: https://github.com/awwmicky/awwmicky.github.io
-[gh-readme-badge]: https://img.shields.io/badge/GH_README-181717?logoColor=FFFFFF&style=for-the-badge&logo=github
-[gh-page-badge]: https://img.shields.io/badge/GH_PAGE-181717?logoColor=FFFFFF&style=for-the-badge&logo=github
+[gh-readme-badge]: https://img.shields.io/badge/GH_README-222222?logoColor=FFFFFF&style=for-the-badge&logo=github
+[gh-page-badge]: https://img.shields.io/badge/GH_PAGE-222222?logoColor=FFFFFF&style=for-the-badge&logo=github
 
 <!-- --- LINNK + BADGE -->
 
@@ -276,3 +280,13 @@ href="https://github.com/Platane/snk#readme">
 
 [p5.js-link]: https://p5js.org/
 [p5.js-badge]: https://img.shields.io/badge/P5.js-ED225D?logoColor=FFFFFF&logo=p5.js
+
+<!-- SVG (Animation) -->
+
+[svg-link]: https://www.w3.org/Graphics/SVG/
+[svg-badge]: https://img.shields.io/badge/SVG-FFB13B?logoColor=FFFFFF&&logo=svg
+
+<!-- WebGL -->
+
+[webgl-link]: https://get.webgl.org/
+[webgl-badge]: https://img.shields.io/badge/WebGL-990000?logoColor=FFFFFF&&logo=webgl
