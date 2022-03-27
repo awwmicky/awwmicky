@@ -34,7 +34,7 @@ title="open 'skill icons' repo"
 href="https://github.com/tandpfun/skill-icons#readme">
   <img 
   alt="skill-icons" 
-  src="https://skillicons.dev/icons?i=react,next,tailwind,figma,git" 
+  src="https://skillicons.dev/icons?i=react,next,tailwind,figma,vscode,git" 
   />
 </a>
 
@@ -137,7 +137,7 @@ href="https://github.com/Platane/snk#readme">
   />
 </a>
 
-<center>
+<div align="center">
   <a 
   target="_blank" 
   title="open 'readme typing svg' repo"
@@ -147,7 +147,7 @@ href="https://github.com/Platane/snk#readme">
     src="https://readme-typing-svg.herokuapp.com?duration=5500&color=39FF14&background=FFFFFF00&hCenter=true&vCenter=true&width=450&lines=Thanks+for+visiting!+Enjoy+your+day+~"
     />
   </a>
-</center>
+</div>
 
 ---
 
