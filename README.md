@@ -42,7 +42,7 @@ href="https://github.com/tandpfun/skill-icons#readme">
 
 <details>
 <summary>
-<code>Tech Stack</code>
+<b>Tech Stack</b>
 </summary>
 <br />
 
@@ -91,7 +91,7 @@ Ky              :: http request
 
 <details>
 <summary>
-<code>Experimental Stack</code>
+<b>Experimental Stack</b>
 </summary>
 <br />
 

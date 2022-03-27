@@ -622,6 +622,17 @@
 [swagger-badge]: https://img.shields.io/badge/Swagger-85EA2D?logoColor=000000&style=flat-square&logo=swagger
 
 
+- Twilio :: [ ![twilio][twilio-badge] ][twilio-link]
+
+[twilio-link]: https://twilio.io/
+[twilio-badge]: https://img.shields.io/badge/Twilio-F22F46?logoColor=FFFFFF&style=flat-square&logo=Twilio
+
+- SendGrid :: [ ![sendgrid][sendgrid-badge] ][sendgrid-link]
+
+[sendgrid-link]: https://sendgrid.com/
+[sendgrid-badge]: https://img.shields.io/badge/SendGrid-02B2E2?logoColor=FFFFFF&style=flat-square&logo=_
+
+
 #### Content Management System
 
 - Sanity (CMS) :: [ ![sanity][sanity-badge] ][sanity-link]
@@ -938,6 +949,7 @@
 ### Database
 
 - Supabase
+- Planet Scale
 - Cockroach Labs
 - Couchbase
 - SQL Lite
