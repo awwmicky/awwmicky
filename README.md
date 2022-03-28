@@ -194,7 +194,7 @@ href="https://github.com/Platane/snk#readme">
 <!-- React -->
 
 [react-link]: https://reactjs.org/
-[react-badge]: https://img.shields.io/badge/React.js-20232A?logoColor=61DAFB&logo=react
+[react-badge]: https://img.shields.io/badge/React.js-61DAFB?logoColor=20232A&logo=react
 
 <!-- Twin Macro -->
 
@@ -214,7 +214,7 @@ href="https://github.com/Platane/snk#readme">
 <!-- Framer Motion -->
 
 [framer-motion-link]: https://www.framer.com/motion/
-[framer-motion-badge]: https://img.shields.io/badge/Framer_Motion-000000?&logoColor=AE2AE2&logo=framer
+[framer-motion-badge]: https://img.shields.io/badge/Framer_Motion-0055FF?&logoColor=FFFFFF&logo=framer
 
 <!-- React Router -->
 
@@ -229,7 +229,7 @@ href="https://github.com/Platane/snk#readme">
 <!-- Zustand -->
 
 [zustand-link]: https://docs.pmnd.rs/zustand/introduction
-[zustand-badge]: https://img.shields.io/badge/zustand-CD3837?logoColor=FFFFFF&logo=npm
+[zustand-badge]: https://img.shields.io/badge/Zustand-CD3837?logoColor=FFFFFF&logo=npm
 
 <!-- React Query -->
 
@@ -284,7 +284,7 @@ href="https://github.com/Platane/snk#readme">
 <!-- SVG (Animation) -->
 
 [svg-link]: https://www.w3.org/Graphics/SVG/
-[svg-badge]: https://img.shields.io/badge/SVG-FFB13B?logoColor=FFFFFF&&logo=svg
+[svg-badge]: https://img.shields.io/badge/SVG-FFB13B?logoColor=000000&logo=svg
 
 <!-- WebGL -->
 
