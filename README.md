@@ -13,7 +13,7 @@ const Michael_F_Alvarez = {
 }
 ```
 
-`(╯°□°)╯彡 ┻━┻ `  `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
+`(╯°□°)╯彡 ┻━┻ `   `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
 
 ## Learn more about me <img alt="😎" width="30" src="./assets/gifs/sunglasses.gif" />
 
