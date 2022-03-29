@@ -21,6 +21,7 @@ const Michael_F_Alvarez = {
 [ ![email][email-badge] ][email-link]
 [ ![resume][resume-badge] ][resume-link]
 [ ![linkedin][linkedin-badge] ][linkedin-link]
+[ ![twitter][twitter-badge] ][twitter-link]
 [ ![gh-readme][gh-readme-badge] ][gh-readme-link] 
 [ ![gh-page][gh-page-badge] ][gh-page-link]
 
@@ -177,6 +178,9 @@ href="https://github.com/Platane/snk#readme">
 <!-- LinkedIn -->
 [linkedin-link]: https://www.linkedin.com/in/awwmicky
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?logoColor=FFFFFF&style=for-the-badge&logo=linkedin
+<!-- Twitter -->
+[twitter-link]: https://twitter.com/awwmicky
+[twitter-badge]: https://img.shields.io/badge/Twitter-1DA1F2?logoColor=FFFFFF&style=for-the-badge&logo=twitter
 
 <!-- GitHub -->
 [gh-readme-link]: https://github.com/awwmicky/awwmicky

@@ -28,6 +28,11 @@
 [linkedin-link]: https://www.linkedin.com/in/awwmicky
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?logoColor=FFFFFF&style=for-the-badge&logo=linkedin
 
+- Twitter :: [ ![twitter][twitter-badge] ][twitter-link]
+
+[twitter-link]: https://twitter.com/awwmicky
+[twitter-badge]: https://img.shields.io/badge/Twitter-1DA1F2?logoColor=FFFFFF&style=for-the-badge&logo=twitter
+
 - GitHub ::
 [ ![gh-readme][gh-readme-badge] ][gh-readme-link] | 
 [ ![gh-page][gh-page-badge] ][gh-page-link]
@@ -1024,7 +1029,6 @@
 - ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?style=for-the-badge&logo=Zoom&logoColor=white)
 - ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
 - ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
-- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 - ![Behance](https://img.shields.io/badge/Behance-1769FF.svg?style=for-the-badge&logo=Behance&logoColor=white)
 - ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
