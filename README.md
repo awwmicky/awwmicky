@@ -2,28 +2,27 @@
 
 [ ![Ask Me Anything][ama-badge] ][ama-link]
 [ ![Click Info][info-badge] ][info-link]
+`(╯°□°)╯彡 ┻━┻ `   `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
 
 ```js
 const Michael_F_Alvarez = {
-  roles      : [ 'Front-End Engineer', 'UI/UX Developer', 'Design Thinker' ],
+  roles      : [ 'Front-End Engineer', 'UI Developer', 'Design Thinker' ],
   interests  : [ 'JAM Stack', 'Serverless', 'PWA' ],
   life_goals : [ 'curious', 'collaborative', 'creative' ],
   nickname   : ('micky' || 'zoda'),
-  pun        : '~ you can objectify me ~'
 }
 ```
 
-`(╯°□°)╯彡 ┻━┻ `   `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
+![<hr />][hr-snapshot]
 
 ## Learn more about me <img alt="😎" width="30" src="./assets/gifs/sunglasses.gif" />
 
 [ ![portfolio][portfolio-badge] ][portfolio-link]
 [ ![email][email-badge] ][email-link]
+[ ![phone][phone-badge] ][phone-link]
 [ ![resume][resume-badge] ][resume-link]
 [ ![linkedin][linkedin-badge] ][linkedin-link]
 [ ![twitter][twitter-badge] ][twitter-link]
-[ ![gh-readme][gh-readme-badge] ][gh-readme-link] 
-[ ![gh-page][gh-page-badge] ][gh-page-link]
 
 <br />
 
@@ -39,11 +38,10 @@ href="https://github.com/tandpfun/skill-icons#readme">
   />
 </a>
 
-## What is my current tech stack (Front-End)
 
 <details>
 <summary>
-<b>Tech Stack</b>
+<b>What is my current tech stack? (Front-End)</b>
 </summary>
 <br />
 
@@ -88,11 +86,9 @@ Ky              :: http request
 </details>
 
 
-## What I really want to experiment (UI)
-
 <details>
 <summary>
-<b>Experimental Stack</b>
+<b>What I really want to experiment? (UI)</b>
 </summary>
 <br />
 
@@ -109,6 +105,17 @@ Ky              :: http request
 
 </details>
 
+
+<details>
+<summary>
+<b>Want to check out my repos?</b>
+</summary>
+<br />
+
+[ ![gh-readme][gh-readme-badge] ][gh-readme-link] 
+[ ![gh-page][gh-page-badge] ][gh-page-link]
+</details>
+
 <br />
 
 ![<hr />][hr-snapshot]
@@ -120,12 +127,12 @@ target="_blank"
 title="open 'github-readme-stats' repo" 
 href="https://github.com/anuraghazra/github-readme-stats#readme">
   <img 
-  height="175em" 
+  height="176em" 
   alt="github-stats" 
   src="https://github-readme-stats.vercel.app/api?username=awwmicky&theme=blue-green&include_all_commits=true&count_private=true&show_icons=true" 
   />
   <img 
-  height="175em" 
+  height="176em" 
   alt="top-languages" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwmicky&theme=blue-green&layout=compact&langs_count=6" 
   />
@@ -172,8 +179,11 @@ href="https://github.com/Platane/snk#readme">
 <!-- Email -->
 [email-link]: mailto:m-f-alvarez@outlook.com
 [email-badge]: https://img.shields.io/badge/Email-D14836?logoColor=FFFFFF&style=for-the-badge
+<!-- Phone -->
+[phone-link]: https://rebrand.ly/michael-f-alvarez__phone
+[phone-badge]: https://img.shields.io/badge/Phone-0000FF.svg?logoColor=FFFFFF&style=for-the-badge
 <!-- Resume -->
-[resume-link]: https://cutt.ly/michael-f-alvarez-cv
+[resume-link]: https://rebrand.ly/michael-f-alvarez__resume
 [resume-badge]: https://img.shields.io/badge/Resume-EEEEEE.svg?logoColor=FFFFFF&style=for-the-badge
 <!-- LinkedIn -->
 [linkedin-link]: https://www.linkedin.com/in/awwmicky
