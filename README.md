@@ -168,18 +168,18 @@ href="https://github.com/Platane/snk#readme">
 
 <!-- Portfolio -->
 [portfolio-link]: https://aww-micky.web.app/
-[portfolio-badge]: https://img.shields.io/website-up-down-sucess-important/https/aww-micky.web.app/.svg?style=for-the-badge
+[portfolio-badge]: https://img.shields.io/website-up-down-sucess-important/https/aww-micky.web.app/?style=for-the-badge
 <!-- Email -->
 [email-link]: mailto:m-f-alvarez@outlook.com
 [email-badge]: https://img.shields.io/badge/Email-D14836?logoColor=FFFFFF&style=for-the-badge
 <!-- Phone -->
 [phone-link]: https://rebrand.ly/michael-f-alvarez__phone
-[phone-badge]: https://img.shields.io/badge/Phone-0000FF.svg?logoColor=FFFFFF&style=for-the-badge
+[phone-badge]: https://img.shields.io/badge/Phone-0000FF?logoColor=FFFFFF&style=for-the-badge
 <!-- Resume -->
 [resume-link]: https://rebrand.ly/michael-f-alvarez__resume
-[resume-badge]: https://img.shields.io/badge/Resume-EEEEEE.svg?logoColor=FFFFFF&style=for-the-badge
+[resume-badge]: https://img.shields.io/badge/Resume-EEEEEE?logoColor=FFFFFF&style=for-the-badge
 <!-- LinkedIn -->
-[linkedin-link]: https://www.linkedin.com/in/awwmicky
+[linkedin-link]: https://linkedin.com/in/awwmicky
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?logoColor=FFFFFF&style=for-the-badge&logo=linkedin
 <!-- Twitter -->
 [twitter-link]: https://twitter.com/awwmicky
@@ -187,10 +187,10 @@ href="https://github.com/Platane/snk#readme">
 
 
 <!-- GitHub -->
-[gh-readme-link]: https://github.com/awwmicky/awwmicky
 [gh-page-link]: https://github.com/awwmicky/awwmicky.github.io
-[gh-readme-badge]: https://img.shields.io/badge/GH_README-222222?logoColor=FFFFFF&labelColor=333&style=flat&logo=github
-[gh-page-badge]: https://img.shields.io/badge/GH_PAGE-222222?logoColor=FFFFFF&labelColor=333&style=flat&logo=github
+[gh-readme-link]: https://github.com/awwmicky/awwmicky
+[gh-page-badge]: https://img.shields.io/badge/GH_PAGE-222222?labelColor=333333&logoColor=FFFFFF&style=flat&logo=github
+[gh-readme-badge]: https://img.shields.io/badge/GH_README-222222?labelColor=333333&logoColor=FFFFFF&style=flat&logo=github
 
 <!-- === LINK + BADGE === -->
 
