@@ -1,14 +1,16 @@
-# Hi, I'm Micky <img alt="👋" width="30" src="./assets/gifs/wave.gif" />
+# Hola, nice to meet ya <img alt="👋" width="30" src="./assets/gifs/wave.gif" />
 
-[ ![Ask Me Anything][ama-badge] ][ama-link]
-[ ![Click Info][info-badge] ][info-link]
+[ ![💭 Ask Me Anything][ama-badge] ][ama-link]
+[ ![🔗 Click Any Badges][source-badge] ][source-link]
+
 `(╯°□°)╯彡 ┻━┻ `   `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
 
 ```js
 const Michael_F_Alvarez = {
+  summary    : 'I build React UI features ready for accessibility, performance, and scalability.',
   roles      : [ 'Front-End Engineer', 'UI Developer', 'Design Thinker' ],
-  interests  : [ 'JAM Stack', 'Serverless', 'PWA' ],
-  life_goals : [ 'curious', 'collaborative', 'creative' ],
+  interests  : [ 'JAM Stack', 'Serverless Functions', 'Headless CMS' ],
+  key_values : [ 'curious', 'collaborative', 'creative' ],
   nickname   : ('micky' || 'zoda'),
 }
 ```
@@ -23,6 +25,9 @@ const Michael_F_Alvarez = {
 [ ![resume][resume-badge] ][resume-link]
 [ ![linkedin][linkedin-badge] ][linkedin-link]
 [ ![twitter][twitter-badge] ][twitter-link]
+
+[ ![gh-page][gh-page-badge] ][gh-page-link]
+[ ![gh-readme][gh-readme-badge] ][gh-readme-link]
 
 <br />
 
@@ -105,19 +110,6 @@ Ky              :: http request
 
 </details>
 
-
-<details>
-<summary>
-<b>Want to check out my repos?</b>
-</summary>
-<br />
-
-[ ![gh-readme][gh-readme-badge] ][gh-readme-link] 
-[ ![gh-page][gh-page-badge] ][gh-page-link]
-</details>
-
-<br />
-
 ![<hr />][hr-snapshot]
 
 ## 📈 GH Stats
@@ -156,22 +148,23 @@ href="https://github.com/Platane/snk#readme">
   href="https://github.com/DenverCoder1/readme-typing-svg#readme">
     <img
     alt="readme-typing"
-    src="https://readme-typing-svg.herokuapp.com?duration=5500&color=39FF14&background=FFFFFF00&hCenter=true&vCenter=true&width=450&lines=Thanks+for+visiting!+Enjoy+your+day+~"
+    src="https://readme-typing-svg.herokuapp.com?duration=5500&color=0Cf474&background=FFFFFF00&hCenter=true&vCenter=true&width=450&lines=Thanks+for+visiting!+Enjoy+your+day+~"
     />
   </a>
 </div>
 
 ----
 
-<!-- --- ACC --- -->
+<!-- === ACC === -->
 
 [hr-snapshot]: https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5
 
-<!-- --- TOP ---  -->
+<!-- === TOP ===  -->
 [ama-link]: https://github.com/awwmicky/awwmicky/issues/new
 [ama-badge]: https://img.shields.io/badge/Ask_me-💭_Anything-33CC99
-[info-link]: https://shields.io/
-[info-badge]: https://img.shields.io/badge/Click_any_badge-🔗_Links_to_source-0000EE
+[source-link]: https://shields.io/
+[source-badge]: https://img.shields.io/badge/Like_what_you_see-🔗_Click_any_badges-0000EE
+
 
 <!-- Portfolio -->
 [portfolio-link]: https://aww-micky.web.app/
@@ -192,13 +185,14 @@ href="https://github.com/Platane/snk#readme">
 [twitter-link]: https://twitter.com/awwmicky
 [twitter-badge]: https://img.shields.io/badge/Twitter-1DA1F2?logoColor=FFFFFF&style=for-the-badge&logo=twitter
 
+
 <!-- GitHub -->
 [gh-readme-link]: https://github.com/awwmicky/awwmicky
 [gh-page-link]: https://github.com/awwmicky/awwmicky.github.io
-[gh-readme-badge]: https://img.shields.io/badge/GH_README-222222?logoColor=FFFFFF&style=for-the-badge&logo=github
-[gh-page-badge]: https://img.shields.io/badge/GH_PAGE-222222?logoColor=FFFFFF&style=for-the-badge&logo=github
+[gh-readme-badge]: https://img.shields.io/badge/GH_README-222222?logoColor=FFFFFF&labelColor=333&style=flat&logo=github
+[gh-page-badge]: https://img.shields.io/badge/GH_PAGE-222222?logoColor=FFFFFF&labelColor=333&style=flat&logo=github
 
-<!-- --- LINNK + BADGE -->
+<!-- === LINK + BADGE === -->
 
 <!-- Vite -->
 
