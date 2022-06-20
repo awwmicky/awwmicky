@@ -7,7 +7,7 @@
 
 ```js
 const Michael_F_Alvarez = {
-  summary    : 'I build React UI features ready for accessibility, performance, and scalability.',
+  summary    : 'I build React UI libraries and features ready for scalability.',
   roles      : [ 'Front-End Engineer', 'UI Developer', 'Design Thinker' ],
   interests  : [ 'JAM Stack', 'Serverless Functions', 'Headless CMS' ],
   key_values : [ 'curious', 'collaborative', 'creative' ],
