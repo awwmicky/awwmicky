@@ -1,7 +1,7 @@
 # Hola, nice to meet ya <img alt="👋" width="30" src="./assets/gifs/wave.gif" />
 
 [ ![💭 Ask Me Anything][ama-badge] ][ama-link]
-[ ![🔗 Click Any Badges][source-badge] ][source-link]
+[ ![👀 Click Any Badges][source-badge] ][source-link]
 
 `(╯°□°)╯彡 ┻━┻ `   `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
 
@@ -12,6 +12,7 @@ const Michael_F_Alvarez = {
   interests  : [ 'JAM Stack', 'Serverless Functions', 'Headless CMS' ],
   key_values : [ 'curious', 'collaborative', 'creative' ],
   nickname   : ('micky' || 'zoda'),
+  type       : '~ 𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎 𝚛𝚞𝚕𝚎𝚜 ~',
 }
 ```
 
@@ -155,29 +156,30 @@ href="https://github.com/Platane/snk#readme">
 
 ----
 
+
 <!-- === ACC === -->
 
 [hr-snapshot]: https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5
+
 
 <!-- === TOP ===  -->
 [ama-link]: https://github.com/awwmicky/awwmicky/issues/new
 [ama-badge]: https://img.shields.io/badge/Ask_me-💭_Anything-33CC99
 [source-link]: https://shields.io/
-[source-badge]: https://img.shields.io/badge/Like_what_you_see-🔗_Click_any_badges-0000EE
-
+[source-badge]: https://img.shields.io/badge/Like_what_you_see-👀_Click_any_badges-0000EE
 
 <!-- Portfolio -->
-[portfolio-link]: https://aww-micky.web.app/
+[portfolio-link]: https://rebrand.ly/michael-f-alvarez__portfolio
 [portfolio-badge]: https://img.shields.io/website-up-down-sucess-important/https/aww-micky.web.app/?style=for-the-badge
 <!-- Email -->
 [email-link]: mailto:m-f-alvarez@outlook.com
-[email-badge]: https://img.shields.io/badge/Email-D14836?logoColor=FFFFFF&style=for-the-badge
+[email-badge]: https://img.shields.io/badge/Email-FF0000?style=for-the-badge
 <!-- Phone -->
 [phone-link]: https://rebrand.ly/michael-f-alvarez__phone
-[phone-badge]: https://img.shields.io/badge/Phone-0000FF?logoColor=FFFFFF&style=for-the-badge
+[phone-badge]: https://img.shields.io/badge/Phone-0000FF?style=for-the-badge
 <!-- Resume -->
 [resume-link]: https://rebrand.ly/michael-f-alvarez__resume
-[resume-badge]: https://img.shields.io/badge/Resume-EEEEEE?logoColor=FFFFFF&style=for-the-badge
+[resume-badge]: https://img.shields.io/badge/Resume-008000?style=for-the-badge
 <!-- LinkedIn -->
 [linkedin-link]: https://linkedin.com/in/awwmicky
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?logoColor=FFFFFF&style=for-the-badge&logo=linkedin
@@ -191,6 +193,7 @@ href="https://github.com/Platane/snk#readme">
 [gh-readme-link]: https://github.com/awwmicky/awwmicky
 [gh-page-badge]: https://img.shields.io/badge/GH_PAGE-222222?labelColor=333333&logoColor=FFFFFF&style=flat&logo=github
 [gh-readme-badge]: https://img.shields.io/badge/GH_README-222222?labelColor=333333&logoColor=FFFFFF&style=flat&logo=github
+
 
 <!-- === LINK + BADGE === -->
 
