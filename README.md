@@ -101,8 +101,9 @@ Ky              :: http request
 | | |
 | ---- | ---- |
 | JAM Stack | [ ![jam-stack][jam-stack-badge] ][jam-stack-link] |
-| Storybook | [ ![storybook][storybook-badge] ][storybook-link] |
 | Next.js | [ ![next.js][next.js-badge] ][next.js-link] |
+| Storybook | [ ![storybook][storybook-badge] ][storybook-link] |
+| Jest | [ ![jest][jest-badge] ][jest-link] |
 | Three.js | [ ![three.js][three.js-badge] ][three.js-link] |
 | Green Sock (GSAP) | [ ![green-sock][green-sock-badge] ][green-sock-link] |
 | P5.js | [ ![p5.js][p5.js-badge] ][p5.js-link] |
@@ -157,12 +158,15 @@ href="https://github.com/Platane/snk#readme">
 ----
 
 
+
 <!-- === ACC === -->
 
 [hr-snapshot]: https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5
 
 
+
 <!-- === TOP ===  -->
+
 [ama-link]: https://github.com/awwmicky/awwmicky/issues/new
 [ama-badge]: https://img.shields.io/badge/Ask_me-💭_Anything-33CC99
 [source-link]: https://shields.io/
@@ -173,13 +177,13 @@ href="https://github.com/Platane/snk#readme">
 [portfolio-badge]: https://img.shields.io/website-up-down-sucess-important/https/aww-micky.web.app/?style=for-the-badge
 <!-- Email -->
 [email-link]: mailto:m-f-alvarez@outlook.com
-[email-badge]: https://img.shields.io/badge/Email-FF0000?style=for-the-badge
+[email-badge]: https://img.shields.io/badge/📧_Email-FF0000?style=for-the-badge
 <!-- Phone -->
 [phone-link]: https://rebrand.ly/michael-f-alvarez__phone
-[phone-badge]: https://img.shields.io/badge/Phone-0000FF?style=for-the-badge
+[phone-badge]: https://img.shields.io/badge/📞_Phone-0000FF?style=for-the-badge
 <!-- Resume -->
 [resume-link]: https://rebrand.ly/michael-f-alvarez__resume
-[resume-badge]: https://img.shields.io/badge/Resume-008000?style=for-the-badge
+[resume-badge]: https://img.shields.io/badge/📄_Resume-008000?style=for-the-badge
 <!-- LinkedIn -->
 [linkedin-link]: https://linkedin.com/in/awwmicky
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?logoColor=FFFFFF&style=for-the-badge&logo=linkedin
@@ -187,12 +191,12 @@ href="https://github.com/Platane/snk#readme">
 [twitter-link]: https://twitter.com/awwmicky
 [twitter-badge]: https://img.shields.io/badge/Twitter-1DA1F2?logoColor=FFFFFF&style=for-the-badge&logo=twitter
 
-
 <!-- GitHub -->
 [gh-page-link]: https://github.com/awwmicky/awwmicky.github.io
 [gh-readme-link]: https://github.com/awwmicky/awwmicky
 [gh-page-badge]: https://img.shields.io/badge/GH_PAGE-222222?labelColor=333333&logoColor=FFFFFF&style=flat&logo=github
 [gh-readme-badge]: https://img.shields.io/badge/GH_README-222222?labelColor=333333&logoColor=FFFFFF&style=flat&logo=github
+
 
 
 <!-- === LINK + BADGE === -->
@@ -267,15 +271,20 @@ href="https://github.com/Platane/snk#readme">
 [jam-stack-link]: https://jamstack.org/
 [jam-stack-badge]: https://img.shields.io/badge/JAM_Stack-F00080?logoColor=FFFFFF&logo=jamstack
 
+<!-- Next.js -->
+
+[next.js-link]: https://nextjs.org/
+[next.js-badge]: https://img.shields.io/badge/Next.js-000000?logoColor=FFFFFF&logo=next.js
+
 <!-- Storybook -->
 
 [storybook-link]: https://storybook.js.org/
 [storybook-badge]: https://img.shields.io/badge/Storybook-FF4785?logoColor=FFFFFF&logo=storybook
 
-<!-- Next.js -->
+<!-- Jest -->
 
-[next.js-link]: https://nextjs.org/
-[next.js-badge]: https://img.shields.io/badge/Next.js-000000?logoColor=FFFFFF&logo=next.js
+[jest-link]: https://jestjs.io/
+[jest-badge]: https://img.shields.io/badge/Jest-C21325?logoColor=FFFFFF&logo=jest
 
 <!-- Three.js -->
 
