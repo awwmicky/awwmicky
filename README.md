@@ -109,6 +109,8 @@ Ky              :: http request
 | P5.js | [ ![p5.js][p5.js-badge] ][p5.js-link] |
 | SVG (Animation) | [ ![svg][svg-badge] ][svg-link] |
 | WebGL | [ ![webgl][webgl-badge] ][webgl-link] |
+| Flutter | [ ![flutter][flutter-badge] ][flutter-link] |
+| Dart | [ ![dart][dart-badge] ][dart-link] |
 
 </details>
 
@@ -289,7 +291,7 @@ href="https://github.com/Platane/snk#readme">
 <!-- Three.js -->
 
 [three.js-link]: https://threejs.org/
-[three.js-badge]: https://img.shields.io/badge/Three.js-black?logoColor=FFFFFF&logo=three.js
+[three.js-badge]: https://img.shields.io/badge/Three.js-000000?logoColor=FFFFFF&logo=three.js
 
 <!-- Green Sock (GSAP) -->
 
@@ -309,4 +311,14 @@ href="https://github.com/Platane/snk#readme">
 <!-- WebGL -->
 
 [webgl-link]: https://get.webgl.org/
-[webgl-badge]: https://img.shields.io/badge/WebGL-990000?logoColor=FFFFFF&&logo=webgl
+[webgl-badge]: https://img.shields.io/badge/WebGL-990000?logoColor=FFFFFF&logo=webgl
+
+<!-- Flutter -->
+
+[flutter-link]: https://flutter.dev/
+[flutter-badge]: https://img.shields.io/badge/Flutter-02569B?logoColor=FFFFFF&logo=flutter
+
+<!-- Dart -->
+
+[dart-link]: https://dart.dev/
+[dart-badge]: https://img.shields.io/badge/Dart-0175c2?logoColor=FFFFFF&logo=dart
