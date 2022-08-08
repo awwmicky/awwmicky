@@ -40,7 +40,7 @@ title="open 'skill icons' repo"
 href="https://github.com/tandpfun/skill-icons#readme">
   <img 
   alt="skill-icons" 
-  src="https://skillicons.dev/icons?i=react,next,node,tailwind,figma,vscode,git" 
+  src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,figma,vscode,git" 
   />
 </a>
 
