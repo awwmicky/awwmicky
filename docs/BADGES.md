@@ -729,8 +729,13 @@
 
 - Cypress :: [ ![cypress][cypress-badge] ][cypress-link]
 
-[cypress-link]: https://www.cypress.io/
+[cypress-link]: https://cypress.io/
 [cypress-badge]: https://img.shields.io/badge/Cypress-17202C?logoColor=FFFFFF&style=flat-square&logo=cypress
+
+- Playwright :: [ ![playwright][playwright-badge] ][playwright-link]
+
+[playwright-link]: https://playwright.dev/
+[playwright-badge]: https://img.shields.io/badge/Playwright-45ba4b?logoColor=FFFFFF&style=flat-square&logo=playwright
 
 - Storybook :: [ ![storybook][storybook-badge] ][storybook-link]
 
