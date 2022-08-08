@@ -5,6 +5,8 @@
 
 `(╯°□°)╯彡 ┻━┻ `   `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
 
+## Who I Am <img alt="😎" width="30" src="./assets/gifs/sunglasses.gif" />
+
 ```js
 const Michael_F_Alvarez = {
   summary    : 'I build React UI libraries and features ready for scalability.',
@@ -17,20 +19,6 @@ const Michael_F_Alvarez = {
 ```
 
 ![<hr />][hr-snapshot]
-
-## Learn more about me <img alt="😎" width="30" src="./assets/gifs/sunglasses.gif" />
-
-[ ![portfolio][portfolio-badge] ][portfolio-link]
-[ ![email][email-badge] ][email-link]
-[ ![phone][phone-badge] ][phone-link]
-[ ![resume][resume-badge] ][resume-link]
-[ ![linkedin][linkedin-badge] ][linkedin-link]
-[ ![twitter][twitter-badge] ][twitter-link]
-
-[ ![gh-page][gh-page-badge] ][gh-page-link]
-[ ![gh-readme][gh-readme-badge] ][gh-readme-link]
-
-<br />
 
 ## My daily tools <img alt="🌎" width="30" src="./assets/gifs/earth.gif" />
 
@@ -49,7 +37,7 @@ href="https://github.com/tandpfun/skill-icons#readme">
 <summary>
 <b>What is my current tech stack?</b>
 </summary>
-<br />
+<!-- <br /> -->
 
 ### UI
 
@@ -86,7 +74,6 @@ Ky              :: http request
 Zod             :: form schema validation
 JSON Server     :: api data prototyping
 ```
-
 </details>
 
 
@@ -121,8 +108,21 @@ JSON Server     :: api data prototyping
 | Green Sock (GSAP) | [ ![green-sock][green-sock-badge] ][green-sock-link] |
 | SVG (Animation)   | [ ![svg][svg-badge] ][svg-link] |
 | WebGL    | [ ![webgl][webgl-badge] ][webgl-link] |
-
 </details>
+
+![<hr />][hr-snapshot]
+
+## Have a project idea? Let's talk
+
+[ ![portfolio][portfolio-badge] ][portfolio-link]
+[ ![email][email-badge] ][email-link]
+[ ![phone][phone-badge] ][phone-link]
+[ ![resume][resume-badge] ][resume-link]
+[ ![linkedin][linkedin-badge] ][linkedin-link]
+[ ![twitter][twitter-badge] ][twitter-link]
+
+[ ![gh-page][gh-page-badge] ][gh-page-link]
+[ ![gh-readme][gh-readme-badge] ][gh-readme-link]
 
 ![<hr />][hr-snapshot]
 
@@ -182,7 +182,8 @@ href="https://github.com/Platane/snk#readme">
 [ama-link]: https://github.com/awwmicky/awwmicky/issues/new
 [ama-badge]: https://img.shields.io/badge/Ask_me-💭_Anything-33CC99
 [source-link]: https://shields.io/
-[source-badge]: https://img.shields.io/badge/Like_what_you_see-👀_Click_any_badges-0000EE
+<!-- [source-badge]: https://img.shields.io/badge/Like_what_you_see-👀_Click_any_badges-FFFFFF -->
+[source-badge]: https://img.shields.io/badge/Click_any_badges-👀_For_any_resources-FFFFFF
 
 <!-- Portfolio -->
 [portfolio-link]: https://rebrand.ly/michael-f-alvarez__portfolio
