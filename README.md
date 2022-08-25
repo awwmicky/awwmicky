@@ -1,9 +1,9 @@
 # Hola, nice to meet ya <img alt="👋" width="30" src="./assets/gifs/wave.gif" />
 
 [ ![💭 Ask Me Anything][ama-badge] ][ama-link]
-[ ![👀 Click Any Badges][source-badge] ][source-link]
+[ ![👀 Click Any Badge][source-badge] ][source-link]
 
-`(╯°□°)╯彡 ┻━┻ `   `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
+`(╯°□°)╯彡 ┻━┻ ` _ `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
 
 ## Who I Am <img alt="😎" width="30" src="./assets/gifs/sunglasses.gif" />
 
@@ -28,7 +28,7 @@ title="open 'skill icons' repo"
 href="https://github.com/tandpfun/skill-icons#readme">
   <img 
   alt="skill-icons" 
-  src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,figma,vscode,git" 
+  src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,figma,vscode,git" 
   />
 </a>
 
@@ -42,17 +42,19 @@ href="https://github.com/tandpfun/skill-icons#readme">
 ### UI
 
 [ ![vite][vite-badge] ][vite-link]
+[ ![typescript][typescript-badge] ][typescript-link]
 [ ![react][react-badge] ][react-link]
 [ ![tailwind-css][tailwind-css-badge] ][tailwind-css-link]
 [ ![styled-components][styled-components-badge] ][styled-components-link]
 [ ![storybook][storybook-badge] ][storybook-link]
 
 ```
-Vite              :: bundler
+Vite              :: bundle
+TypeScript        :: type check
 React             :: js framework
 Tailwind CSS      :: ui library
-Styled-Components :: css-to-jsx
-Storybook         :: ui development
+Styled-Components :: css-to-js
+Storybook         :: ui built kit
 ```
 
 ### API
@@ -89,6 +91,8 @@ JSON Server     :: api data prototyping
 | TypeScript | [ ![typescript][typescript-badge] ][typescript-link] |
 | Next.js    | [ ![next.js][next.js-badge] ][next.js-link] |
 | Storybook  | [ ![storybook][storybook-badge] ][storybook-link] |
+| GraphQL    | [ ![graphql][graphql-badge] ][graphql-link] |
+| Apollo     | [ ![apollo][apollo-badge] ][apollo-link] |
 | Jest       | [ ![jest][jest-badge] ][jest-link] |
 | Cypress    | [ ![cypress][cypress-badge] ][cypress-link] |
 | Playwright | [ ![playwright][playwright-badge] ][playwright-link] |
@@ -97,7 +101,7 @@ JSON Server     :: api data prototyping
 
 <details>
 <summary>
-<b>What I really want to start experimenting?</b>
+<b>What I want to start experimenting?</b>
 </summary>
 <br />
 
@@ -108,6 +112,20 @@ JSON Server     :: api data prototyping
 | Green Sock (GSAP) | [ ![green-sock][green-sock-badge] ][green-sock-link] |
 | SVG (Animation)   | [ ![svg][svg-badge] ][svg-link] |
 | WebGL    | [ ![webgl][webgl-badge] ][webgl-link] |
+</details>
+
+<details>
+<summary>
+<i>What challenges do I want to overcome?</i>
+</summary>
+<br />
+
+- how to specialize in dynamic form management?~
+- how to type check global state data, async data, form data?~
+- how to build content structure web apps w/ only Front-End tech?~
+- how to launch a web app while tracking server cost?
+- how to use niche-tech: Sanity.io, Contenful, Strapi, Prisma, PlanetScale, tRPC?~
+
 </details>
 
 ![<hr />][hr-snapshot]
@@ -182,8 +200,7 @@ href="https://github.com/Platane/snk#readme">
 [ama-link]: https://github.com/awwmicky/awwmicky/issues/new
 [ama-badge]: https://img.shields.io/badge/Ask_me-💭_Anything-33CC99
 [source-link]: https://shields.io/
-<!-- [source-badge]: https://img.shields.io/badge/Like_what_you_see-👀_Click_any_badges-FFFFFF -->
-[source-badge]: https://img.shields.io/badge/Click_any_badges-👀_For_any_resources-FFFFFF
+[source-badge]: https://img.shields.io/badge/Click_any_badges-👀_For_resources-FFFFFF
 
 <!-- Portfolio -->
 [portfolio-link]: https://rebrand.ly/michael-f-alvarez__portfolio
@@ -219,6 +236,11 @@ href="https://github.com/Platane/snk#readme">
 [vite-link]: https://vitejs.dev/
 [vite-badge]: https://img.shields.io/badge/Vite-B73BFE?logoColor=FFD62E&logo=vite
 
+<!-- TypeScript -->
+
+[typescript-link]: https://typescriptlang.org/
+[typescript-badge]: https://img.shields.io/badge/TypeScript-3178C6?logoColor=FFFFFF&logo=typescript
+
 <!-- React -->
 
 [react-link]: https://reactjs.org/
@@ -234,50 +256,45 @@ href="https://github.com/Platane/snk#readme">
 [styled-components-link]: https://styled-components.com/
 [styled-components-badge]: https://img.shields.io/badge/Styled--Components-DB7093?logoColor=FFFFFF&logo=styled-components
 
-<!-- React Router -->
+<!-- Zustand -->
 
-[react-router-link]: https://reactrouterdotcom.fly.dev/
-[react-router-badge]: https://img.shields.io/badge/React_Router-CA4245?logoColor=FFFFFF&logo=react-router
+[zustand-link]: https://zustand-demo.pmnd.rs/
+[zustand-badge]: https://img.shields.io/badge/Zustand-716257?logoColor=FFFFFF&logo=addthis
 
 <!-- React Query -->
 
 [react-query-link]: https://react-query.tanstack.com/
 [react-query-badge]: https://img.shields.io/badge/React_Query-FF4154?logoColor=FFD94C&logo=react-query
 
-<!-- Zustand -->
+<!-- React Router -->
 
-[zustand-link]: https://docs.pmnd.rs/zustand/introduction
-[zustand-badge]: https://img.shields.io/badge/Zustand-716257?logoColor=FFFFFF&logo=npm
+[react-router-link]: https://reactrouter.com/
+[react-router-badge]: https://img.shields.io/badge/React_Router-CA4245?logoColor=FFFFFF&logo=react-router
 
 <!-- React Hook Form -->
 
 [react-hook-form-link]: https://react-hook-form.com/
 [react-hook-form-badge]: https://img.shields.io/badge/React_Hook_Form-EC5990?logoColor=FFFFFF&logo=react-hook-form
 
-<!-- Zod -->
-
-[zod-link]: https://www.npmjs.com/package/zod
-[zod-badge]: https://img.shields.io/badge/zod-230000?logoColor=FFFFFF&logo=npm
-
 <!-- Ky -->
 
-[ky-link]: https://www.npmjs.com/package/ky
-[ky-badge]: https://img.shields.io/badge/ky-230000?logoColor=FFFFFF&logo=npm
+[ky-link]: https://npmjs.com/package/ky
+[ky-badge]: https://img.shields.io/badge/Ky-F1423D?logoColor=FFFFFF&logo=addthis
+
+<!-- Zod -->
+
+[zod-link]: https://zod.dev/
+[zod-badge]: https://img.shields.io/badge/Zod-3068B7?logoColor=FFFFFF&logo=addthis
 
 <!-- JSON Server -->
 
-[json-server-link]: https://www.npmjs.com/package/json-server
-[json-server-badge]: https://img.shields.io/badge/json--server-230000?logoColor=FFFFFF&logo=npm
+[json-server-link]: https://npmjs.com/package/json-server
+[json-server-badge]: https://img.shields.io/badge/JSON--Server-1E3A8A?logoColor=FFFFFF&logo=json
 
 <!-- JAM Stack -->
 
 [jam-stack-link]: https://jamstack.org/
 [jam-stack-badge]: https://img.shields.io/badge/JAM_Stack-F00080?logoColor=FFFFFF&logo=jamstack
-
-<!-- TypeScript -->
-
-[typescript-link]: https://www.typescriptlang.org/
-[typescript-badge]: https://img.shields.io/badge/TypeScript-3178C6?logoColor=FFFFFF&logo=typescript
 
 <!-- Next.js -->
 
@@ -289,6 +306,16 @@ href="https://github.com/Platane/snk#readme">
 [storybook-link]: https://storybook.js.org/
 [storybook-badge]: https://img.shields.io/badge/Storybook-FF4785?logoColor=FFFFFF&logo=storybook
 
+<!-- GraphQL -->
+
+[graphql-link]: https://graphql.org/
+[graphql-badge]: https://img.shields.io/badge/GraphQL-E10098?logoColor=FFFFFF&style=flat-square&logo=graphql
+
+<!-- Apollo -->
+
+[apollo-link]: https://apollographql.com/
+[apollo-badge]: https://img.shields.io/badge/Apollo-311C87?logoColor=FFFFFF&style=flat-square&logo=apollo-graphql
+
 <!-- Jest -->
 
 [jest-link]: https://jestjs.io/
@@ -296,7 +323,7 @@ href="https://github.com/Platane/snk#readme">
 
 <!-- Cypress -->
 
-[cypress-link]: https://www.cypress.io/
+[cypress-link]: https://cypress.io/
 [cypress-badge]: https://img.shields.io/badge/Cypress-17202C?logoColor=FFFFFF&logo=cypress
 
 <!-- Playwright -->
@@ -321,7 +348,7 @@ href="https://github.com/Platane/snk#readme">
 
 <!-- SVG (Animation) -->
 
-[svg-link]: https://www.w3.org/Graphics/SVG/
+[svg-link]: https://w3.org/Graphics/SVG/
 [svg-badge]: https://img.shields.io/badge/SVG-FFB13B?logoColor=000000&logo=svg
 
 <!-- WebGL -->
