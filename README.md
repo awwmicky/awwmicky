@@ -13,8 +13,8 @@ const Michael_F_Alvarez = {
   roles      : [ 'Front-End Engineer', 'UI Developer', 'Design Thinking' ],
   interests  : [ 'JAM Stack', 'Serverless Functions', 'Headless CMS' ],
   key_values : [ 'curious', 'collaborative', 'creative' ],
-  nickname   : ('micky' ?? 'zoda'),
-  type       : '~ 𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎 𝚛𝚞𝚕𝚎𝚜 ~',
+  type_check : true && '~ 𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎 𝚛𝚞𝚕𝚎𝚜 ~',
+  nickname   : ( 'micky' ?? 'zoda' ),
 }
 ```
 
@@ -136,6 +136,7 @@ JSON Server     :: api data prototyping
 [ ![email][email-badge] ][email-link]
 [ ![phone][phone-badge] ][phone-link]
 [ ![resume][resume-badge] ][resume-link]
+[ ![calendly][calendly-badge] ][calendly-link]
 [ ![linkedin][linkedin-badge] ][linkedin-link]
 [ ![twitter][twitter-badge] ][twitter-link]
 
@@ -214,6 +215,9 @@ href="https://github.com/Platane/snk#readme">
 <!-- Resume -->
 [resume-link]: https://rebrand.ly/michael-f-alvarez__resume
 [resume-badge]: https://img.shields.io/badge/📄_Resume-DFDFDF?style=for-the-badge
+<!-- Calendly -->
+[calendly-link]: https://calendly.com/michael-f-alvarez/meetup
+[calendly-badge]: https://img.shields.io/badge/📅_Calendly-006BFF?style=for-the-badge
 <!-- LinkedIn -->
 [linkedin-link]: https://linkedin.com/in/awwmicky
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?logoColor=FFFFFF&style=for-the-badge&logo=linkedin
