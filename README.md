@@ -13,7 +13,7 @@ const Michael_F_Alvarez = {
   roles      : [ 'Front-End Engineer', 'UI Developer', 'Design Thinking' ],
   interests  : [ 'JAM Stack', 'Serverless Functions', 'Headless CMS' ],
   key_values : [ 'curious', 'collaborative', 'creative' ],
-  nickname   : ('micky' || 'zoda'),
+  nickname   : ('micky' ?? 'zoda'),
   type       : '~ 𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎 𝚛𝚞𝚕𝚎𝚜 ~',
 }
 ```
@@ -204,16 +204,16 @@ href="https://github.com/Platane/snk#readme">
 
 <!-- Portfolio -->
 [portfolio-link]: https://rebrand.ly/michael-f-alvarez__portfolio
-[portfolio-badge]: https://img.shields.io/website-up-down-sucess-important/https/aww-micky.web.app/?style=for-the-badge
+[portfolio-badge]: https://img.shields.io/website-live-issue-sucess-important/https/aww-micky.web.app/?style=for-the-badge
 <!-- Email -->
 [email-link]: mailto:m-f-alvarez@outlook.com
-[email-badge]: https://img.shields.io/badge/📧_Email-FF0000?style=for-the-badge
+[email-badge]: https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge
 <!-- Phone -->
 [phone-link]: https://rebrand.ly/michael-f-alvarez__phone
-[phone-badge]: https://img.shields.io/badge/📞_Phone-0000FF?style=for-the-badge
+[phone-badge]: https://img.shields.io/badge/📞_Phone-B24141?style=for-the-badge
 <!-- Resume -->
 [resume-link]: https://rebrand.ly/michael-f-alvarez__resume
-[resume-badge]: https://img.shields.io/badge/📄_Resume-008000?style=for-the-badge
+[resume-badge]: https://img.shields.io/badge/📄_Resume-DFDFDF?style=for-the-badge
 <!-- LinkedIn -->
 [linkedin-link]: https://linkedin.com/in/awwmicky
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?logoColor=FFFFFF&style=for-the-badge&logo=linkedin
