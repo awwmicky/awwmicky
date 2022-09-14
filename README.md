@@ -1,3 +1,4 @@
+![🎈](./assets/images/banner.png)
 # Hola, nice to meet ya <img alt="👋" width="30" src="./assets/gifs/wave.gif" />
 
 [ ![💭 Ask Me Anything][ama-badge] ][ama-link]
