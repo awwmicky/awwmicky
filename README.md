@@ -1,8 +1,9 @@
-![🎈](./assets/images/banner.png)
+![🎈](./assets/images/banner-tech.png)
 # Hola, nice to meet ya <img alt="👋" width="30" src="./assets/gifs/wave.gif" />
 
 [ ![💭 Ask Me Anything][ama-badge] ][ama-link]
-[ ![👀 Click Any Badge][source-badge] ][source-link]
+[ ![👀 Click Any Badge][shield-badge] ][shield-link]
+[ ![🤍 Open Source Software][oss-badge] ][oss-link]
 
 `(╯°□°)╯彡 ┻━┻ ` _ `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
 
@@ -10,7 +11,7 @@
 
 ```js
 const Michael_F_Alvarez = {
-  summary    : 'I build React UI libraries and features ready for scalability.',
+  summary    : 'I build websites & web apps as digital solutions using Next.js & React.',
   roles      : [ 'Front-End Engineer', 'UI Developer', 'Design Thinking' ],
   interests  : [ 'JAM Stack', 'Serverless Functions', 'Headless CMS' ],
   key_values : [ 'curious', 'collaborative', 'creative' ],
@@ -21,7 +22,9 @@ const Michael_F_Alvarez = {
 
 ![<hr />][hr-snapshot]
 
-## My daily tools <img alt="🌎" width="30" src="./assets/gifs/earth.gif" />
+## What I know <img alt="🌎" width="30" src="./assets/gifs/earth.gif" />
+
+### Tools I use daily
 
 <a 
 target="_blank" 
@@ -29,10 +32,21 @@ title="open 'skill icons' repo"
 href="https://github.com/tandpfun/skill-icons#readme">
   <img 
   alt="skill-icons" 
-  src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,figma,vscode,git" 
+  src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,sass,figma,vscode,git" 
   />
 </a>
 
+### Tools I want to learn
+
+<a 
+target="_blank" 
+title="open 'skill icons' repo" 
+href="https://github.com/tandpfun/skill-icons#readme">
+  <img 
+  alt="skill-icons" 
+  src="https://skillicons.dev/icons?i=graphql,apollo,prisma,jest,redis,aws"
+  />
+</a>
 
 <details>
 <summary>
@@ -82,27 +96,32 @@ JSON Server     :: api data prototyping
 
 <details>
 <summary>
-<b>What I am interested in learning?</b>
+<b>What I am interested to try out?</b>
 </summary>
 <br />
 
 | | |
 | ---- | ---- |
 | JAM Stack  | [ ![jam-stack][jam-stack-badge] ][jam-stack-link] |
-| TypeScript | [ ![typescript][typescript-badge] ][typescript-link] |
-| Next.js    | [ ![next.js][next.js-badge] ][next.js-link] |
 | Storybook  | [ ![storybook][storybook-badge] ][storybook-link] |
 | GraphQL    | [ ![graphql][graphql-badge] ][graphql-link] |
 | Apollo     | [ ![apollo][apollo-badge] ][apollo-link] |
+| Prisma     | [ ![prisma][prisma-badge] ][prisma-link] |
 | Jest       | [ ![jest][jest-badge] ][jest-link] |
 | Cypress    | [ ![cypress][cypress-badge] ][cypress-link] |
 | Playwright | [ ![playwright][playwright-badge] ][playwright-link] |
+
+<!--  
+Sanity.io
+Contentful
+Strapi
+-->
 
 </details>
 
 <details>
 <summary>
-<b>What I want to start experimenting?</b>
+<b>What really grabs my attention?</b>
 </summary>
 <br />
 
@@ -121,11 +140,11 @@ JSON Server     :: api data prototyping
 </summary>
 <br />
 
-- how to specialize in dynamic form management?~
 - how to type check global state data, async data, form data?~
 - how to build content structure web apps w/ only Front-End tech?~
 - how to launch a web app while tracking server cost?
-- how to use niche-tech: Sanity.io, Contenful, Strapi, Prisma, PlanetScale, tRPC?~
+- how to launch a web app while checking data analytics?
+- how to use: Sanity.io, Contenful, Strapi, Prisma, PlanetScale, tRPC?~
 
 </details>
 
@@ -195,14 +214,19 @@ href="https://github.com/Platane/snk#readme">
 
 [hr-snapshot]: https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5
 
-
-
 <!-- === TOP ===  -->
 
+<!-- ama -->
 [ama-link]: https://github.com/awwmicky/awwmicky/issues/new
 [ama-badge]: https://img.shields.io/badge/Ask_me-💭_Anything-33CC99
-[source-link]: https://shields.io/
-[source-badge]: https://img.shields.io/badge/Click_any_badges-👀_For_resources-FFFFFF
+<!-- shield -->
+[shield-link]: https://shields.io/
+[shield-badge]: https://img.shields.io/badge/Click_any_badges-👀_For_resources-FFFFFF
+<!-- oss -->
+[oss-link]: https://github.com/ellerbrock/open-source-badges/
+[oss-badge]: https://badges.frapsoft.com/os/v2/open-source.svg
+
+<!-- === SOCIAL === -->
 
 <!-- Portfolio -->
 [portfolio-link]: https://rebrand.ly/michael-f-alvarez__portfolio
@@ -232,9 +256,7 @@ href="https://github.com/Platane/snk#readme">
 [gh-page-badge]: https://img.shields.io/badge/GH_PAGE-222222?labelColor=333333&logoColor=FFFFFF&style=flat&logo=github
 [gh-readme-badge]: https://img.shields.io/badge/GH_README-222222?labelColor=333333&logoColor=FFFFFF&style=flat&logo=github
 
-
-
-<!-- === LINK + BADGE === -->
+<!-- === TECHNOLOGIES === -->
 
 <!-- Vite -->
 
@@ -320,6 +342,10 @@ href="https://github.com/Platane/snk#readme">
 
 [apollo-link]: https://apollographql.com/
 [apollo-badge]: https://img.shields.io/badge/Apollo-311C87?logoColor=FFFFFF&style=flat-square&logo=apollo-graphql
+
+<!-- Prisma -->
+[prisma-link]: https://www.prisma.io/
+[prisma-badge]: https://img.shields.io/badge/Prisma-2D3748?logoColor=FFFFFF&style=flat-square&logo=prisma
 
 <!-- Jest -->
 
