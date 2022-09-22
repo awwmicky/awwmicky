@@ -1,17 +1,26 @@
 ![🎈](./assets/images/banner-tech.png)
 # Hola, nice to meet ya <img alt="👋" width="30" src="./assets/gifs/wave.gif" />
 
-[ ![💭 Ask Me Anything][ama-badge] ][ama-link]
-[ ![👀 Click Any Badge][shield-badge] ][shield-link]
-[ ![🤍 Open Source Software][oss-badge] ][oss-link]
+### Got a project idea? Let's get in touch
 
-`(╯°□°)╯彡 ┻━┻ ` _ `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
+[ ![portfolio][portfolio-badge] ][portfolio-link]
+[ ![email][email-badge] ][email-link]
+[ ![phone][phone-badge] ][phone-link]
+[ ![resume][resume-badge] ][resume-link]
+[ ![calendly][calendly-badge] ][calendly-link]
+[ ![linkedin][linkedin-badge] ][linkedin-link]
+[ ![twitter][twitter-badge] ][twitter-link]
+
+[ ![gh-page][gh-page-badge] ][gh-page-link]
+[ ![gh-readme][gh-readme-badge] ][gh-readme-link]
+
+![<hr />][hr-snapshot]
 
 ## Who I Am <img alt="😎" width="30" src="./assets/gifs/sunglasses.gif" />
 
 ```js
 const Michael_F_Alvarez = {
-  summary    : 'I build websites & web apps as digital solutions using Next.js & React.',
+  summary    : 'I build websites & web apps as a digital solution for SaaS products',
   roles      : [ 'Front-End Engineer', 'UI Developer', 'Design Thinking' ],
   interests  : [ 'JAM Stack', 'Serverless Functions', 'Headless CMS' ],
   key_values : [ 'curious', 'collaborative', 'creative' ],
@@ -24,7 +33,7 @@ const Michael_F_Alvarez = {
 
 ## What I know <img alt="🌎" width="30" src="./assets/gifs/earth.gif" />
 
-### Tools I use daily
+### Tools I use on a daily basis
 
 <a 
 target="_blank" 
@@ -36,25 +45,32 @@ href="https://github.com/tandpfun/skill-icons#readme">
   />
 </a>
 
-### Tools I want to learn
+### Tools I am interested to learn
 
-<a 
-target="_blank" 
-title="open 'skill icons' repo" 
-href="https://github.com/tandpfun/skill-icons#readme">
-  <img 
-  alt="skill-icons" 
-  src="https://skillicons.dev/icons?i=graphql,apollo,prisma,jest,redis,aws"
-  />
-</a>
+[ ![jam-stack][jam-stack-badge] ][jam-stack-link]
+[ ![storybook][storybook-badge] ][storybook-link]
+[ ![graphql][graphql-badge] ][graphql-link]
+[ ![apollo][apollo-badge] ][apollo-link]
+[ ![prisma][prisma-badge] ][prisma-link]
 
+[ ![testing-library][testing-library-badge] ][testing-library-link]
+[ ![jest][jest-badge] ][jest-link]
+[ ![cypress][cypress-badge] ][cypress-link]
+[ ![playwright][playwright-badge] ][playwright-link]
+
+[ ![sanity.io][sanity-badge] ][sanity-link]
+[ ![contentful][contentful-badge] ][contentful-link]
+[ ![strapi][strapi-badge] ][strapi-link]
+[ ![prismic][prismic-badge] ][prismic-link]
+[ ![storyblok][storyblok-badge] ][storyblok-link]
+[ ![hygraph][hygraph-badge] ][hygraph-link]
 <details>
 <summary>
 <b>What is my current tech stack?</b>
 </summary>
 <!-- <br /> -->
 
-### UI
+### UI - Developement
 
 [ ![vite][vite-badge] ][vite-link]
 [ ![typescript][typescript-badge] ][typescript-link]
@@ -69,10 +85,10 @@ TypeScript        :: type check
 React             :: js framework
 Tailwind CSS      :: ui library
 Styled-Components :: css-to-js
-Storybook         :: ui built kit
+Storybook         :: ui (component) driven
 ```
 
-### API
+### API - Implementation
 
 [ ![zustand][zustand-badge] ][zustand-link]
 [ ![react-query][react-query-badge] ][react-query-link]
@@ -88,7 +104,7 @@ React Query     :: server (global) state management
 React Router    :: routing state management
 React Hook Form :: form state management
 Ky              :: http request
-Zod             :: form schema validation
+Zod             :: schema validation
 JSON Server     :: api data prototyping
 ```
 </details>
@@ -96,74 +112,39 @@ JSON Server     :: api data prototyping
 
 <details>
 <summary>
-<b>What I am interested to try out?</b>
+<i>What I deep dive into, experiment?</i>
 </summary>
 <br />
 
 | | |
-| ---- | ---- |
-| JAM Stack  | [ ![jam-stack][jam-stack-badge] ][jam-stack-link] |
-| Storybook  | [ ![storybook][storybook-badge] ][storybook-link] |
-| GraphQL    | [ ![graphql][graphql-badge] ][graphql-link] |
-| Apollo     | [ ![apollo][apollo-badge] ][apollo-link] |
-| Prisma     | [ ![prisma][prisma-badge] ][prisma-link] |
-| Jest       | [ ![jest][jest-badge] ][jest-link] |
-| Cypress    | [ ![cypress][cypress-badge] ][cypress-link] |
-| Playwright | [ ![playwright][playwright-badge] ][playwright-link] |
-
-<!--  
-Sanity.io
-Contentful
-Strapi
--->
-
-</details>
-
-<details>
-<summary>
-<b>What really grabs my attention?</b>
-</summary>
-<br />
-
-| | |
-| ---- | ---- |
+| - | - |
+| Framer Motion     | [ ![framer-motion][framer-motion-badge] ][framer-motion-link] |
 | Three.js | [ ![three.js][three.js-badge] ][three.js-link] |
 | P5.js    | [ ![p5.js][p5.js-badge] ][p5.js-link] |
 | Green Sock (GSAP) | [ ![green-sock][green-sock-badge] ][green-sock-link] |
-| SVG (Animation)   | [ ![svg][svg-badge] ][svg-link] |
 | WebGL    | [ ![webgl][webgl-badge] ][webgl-link] |
+| SVG (Animation)   | [ ![svg][svg-badge] ][svg-link] |
+| Canvas   | [ ![canvas][canvas-badge] ][canvas-link] |
 </details>
 
 <details>
 <summary>
-<i>What challenges do I want to overcome?</i>
+<i>What challenges do I think about?</i>
 </summary>
 <br />
 
+- how to integrate : Prisma, PlanetScale, tRPC?~
 - how to type check global state data, async data, form data?~
-- how to build content structure web apps w/ only Front-End tech?~
+- how to build content structure for web apps?~
+- how to reduce imports, compress photos/videos, scale components?
 - how to launch a web app while tracking server cost?
 - how to launch a web app while checking data analytics?
-- how to use: Sanity.io, Contenful, Strapi, Prisma, PlanetScale, tRPC?~
 
 </details>
 
 ![<hr />][hr-snapshot]
 
-## Have a project idea? Let's talk
-
-[ ![portfolio][portfolio-badge] ][portfolio-link]
-[ ![email][email-badge] ][email-link]
-[ ![phone][phone-badge] ][phone-link]
-[ ![resume][resume-badge] ][resume-link]
-[ ![calendly][calendly-badge] ][calendly-link]
-[ ![linkedin][linkedin-badge] ][linkedin-link]
-[ ![twitter][twitter-badge] ][twitter-link]
-
-[ ![gh-page][gh-page-badge] ][gh-page-link]
-[ ![gh-readme][gh-readme-badge] ][gh-readme-link]
-
-![<hr />][hr-snapshot]
+<!-- ## Have a project idea? Let's talk -->
 
 ## 📈 GH Stats
 
@@ -206,15 +187,21 @@ href="https://github.com/Platane/snk#readme">
   </a>
 </div>
 
+[ ![💭 Ask Me Anything][ama-badge] ][ama-link]
+[ ![👀 Click Any Badge][shield-badge] ][shield-link]
+[ ![🤍 Open Source Software][oss-badge] ][oss-link]
+`(╯°□°)╯彡 ┻━┻ ` |
+`๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
+
 ----
 
 
 
-<!-- === ACC === -->
+<!-- ====== ACC ====== -->
 
 [hr-snapshot]: https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5
 
-<!-- === TOP ===  -->
+<!-- ====== ALT ======  -->
 
 <!-- ama -->
 [ama-link]: https://github.com/awwmicky/awwmicky/issues/new
@@ -226,17 +213,17 @@ href="https://github.com/Platane/snk#readme">
 [oss-link]: https://github.com/ellerbrock/open-source-badges/
 [oss-badge]: https://badges.frapsoft.com/os/v2/open-source.svg
 
-<!-- === SOCIAL === -->
+<!-- ====== SOCIAL ====== -->
 
 <!-- Portfolio -->
 [portfolio-link]: https://rebrand.ly/michael-f-alvarez__portfolio
 [portfolio-badge]: https://img.shields.io/website-live-issue-sucess-important/https/aww-micky.web.app/?style=for-the-badge
 <!-- Email -->
 [email-link]: mailto:m-f-alvarez@outlook.com
-[email-badge]: https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge
+[email-badge]: https://img.shields.io/badge/📧_Email-CF1920?style=for-the-badge
 <!-- Phone -->
 [phone-link]: https://rebrand.ly/michael-f-alvarez__phone
-[phone-badge]: https://img.shields.io/badge/📞_Phone-B24141?style=for-the-badge
+[phone-badge]: https://img.shields.io/badge/📞_Phone-8AB702?style=for-the-badge
 <!-- Resume -->
 [resume-link]: https://rebrand.ly/michael-f-alvarez__resume
 [resume-badge]: https://img.shields.io/badge/📄_Resume-DFDFDF?style=for-the-badge
@@ -256,7 +243,7 @@ href="https://github.com/Platane/snk#readme">
 [gh-page-badge]: https://img.shields.io/badge/GH_PAGE-222222?labelColor=333333&logoColor=FFFFFF&style=flat&logo=github
 [gh-readme-badge]: https://img.shields.io/badge/GH_README-222222?labelColor=333333&logoColor=FFFFFF&style=flat&logo=github
 
-<!-- === TECHNOLOGIES === -->
+<!-- ====== TECH STACK ====== -->
 
 <!-- Vite -->
 
@@ -318,6 +305,8 @@ href="https://github.com/Platane/snk#readme">
 [json-server-link]: https://npmjs.com/package/json-server
 [json-server-badge]: https://img.shields.io/badge/JSON--Server-1E3A8A?logoColor=FFFFFF&logo=json
 
+<!-- ====== LEARNING ====== -->
+
 <!-- JAM Stack -->
 
 [jam-stack-link]: https://jamstack.org/
@@ -347,6 +336,13 @@ href="https://github.com/Platane/snk#readme">
 [prisma-link]: https://www.prisma.io/
 [prisma-badge]: https://img.shields.io/badge/Prisma-2D3748?logoColor=FFFFFF&style=flat-square&logo=prisma
 
+<!-- ====== TESTING ====== -->
+
+<!-- Testing Library -->
+
+[testing-library-link]: https://testing-library.com/
+[testing-library-badge]: https://img.shields.io/badge/Testing_Library-E33332?logoColor=FFFFFF&logo=testing-library
+
 <!-- Jest -->
 
 [jest-link]: https://jestjs.io/
@@ -360,7 +356,46 @@ href="https://github.com/Platane/snk#readme">
 <!-- Playwright -->
 
 [playwright-link]: https://playwright.dev/
-[playwright-badge]: https://img.shields.io/badge/Playwright-45ba4b?logoColor=FFFFFF&logo=playwright
+[playwright-badge]: https://img.shields.io/badge/Playwright-45BA4B?logoColor=FFFFFF&logo=playwright
+
+<!-- ====== CMS ======= -->
+
+<!-- sanity.io -->
+
+[sanity-link]: https://sanity.io/
+[sanity-badge]: https://img.shields.io/badge/Sanity-F03E2F?logoColor=000000&logo=addthis
+
+<!-- contentful -->
+
+[contentful-link]: https://contentful.com/
+[contentful-badge]: https://img.shields.io/badge/Contentful-9BDC10?logoColor=000000&logo=addthis
+
+<!-- strapi -->
+
+[strapi-link]: https://strapi.io/
+[strapi-badge]: https://img.shields.io/badge/Strapi-8C4bFF?logoColor=000000&logo=addthis
+
+<!-- prismic -->
+
+[prismic-link]: https://prismic.io/
+[prismic-badge]: https://img.shields.io/badge/Prismic-5163BA?logoColor=000000&logo=addthis
+
+<!-- storyblok -->
+
+[storyblok-link]: https://storyblok.com/home
+[storyblok-badge]: https://img.shields.io/badge/Storyblok-00B3B0?logoColor=000000&logo=addthis
+
+<!-- hygraph -->
+
+[hygraph-link]: https://hygraph.com/
+[hygraph-badge]: https://img.shields.io/badge/Hygraph-090E24?logoColor=FFFFFF&logo=addthis
+
+<!-- ====== GRAPHICS ======= -->
+
+<!-- Framer Motion -->
+
+[framer-motion-link]: https://framer.com/motion/
+[framer-motion-badge]: https://img.shields.io/badge/Framer_Motion-DA39A3?logoColor=FFFFFF&logo=framer
 
 <!-- Three.js -->
 
@@ -377,12 +412,17 @@ href="https://github.com/Platane/snk#readme">
 [p5.js-link]: https://p5js.org/
 [p5.js-badge]: https://img.shields.io/badge/P5.js-ED225D?logoColor=FFFFFF&logo=p5.js
 
+<!-- WebGL -->
+
+[webgl-link]: https://get.webgl.org/
+[webgl-badge]: https://img.shields.io/badge/WebGL-990000?logoColor=FFFFFF&logo=webgl
+
 <!-- SVG (Animation) -->
 
 [svg-link]: https://w3.org/Graphics/SVG/
 [svg-badge]: https://img.shields.io/badge/SVG-FFB13B?logoColor=000000&logo=svg
 
-<!-- WebGL -->
+<!-- Canvas -->
 
-[webgl-link]: https://get.webgl.org/
-[webgl-badge]: https://img.shields.io/badge/WebGL-990000?logoColor=FFFFFF&logo=webgl
+[canvas-link]: https://w3.org/WAI/PF/HTML/wiki/Canvas
+[canvas-badge]: https://img.shields.io/badge/Canvas-9BDC10?logoColor=000000&logo=addthis

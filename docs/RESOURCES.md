@@ -19,6 +19,7 @@
 - https://github.com/danmadeira/simple-icon-badges
 - https://home.aveek.io/GitHub-Profile-Badges/
 - https://github.com/alexandresanlim/Badges4-README.md-Profile
+- https://github.com/DenverCoder1/custom-icon-badges
 
 ## Custom Badges
 

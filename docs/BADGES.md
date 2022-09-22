@@ -1,5 +1,10 @@
 # BADGES
 
+## LINKS
+
+- https://shields.io/
+- https://simpleicons.org/
+
 ## My Contact Info
 
 <details>
@@ -726,6 +731,11 @@
 
 [jest-link]: https://jestjs.io/
 [jest-badge]: https://img.shields.io/badge/Jest-C21325?logoColor=FFFFFF&style=flat-square&logo=jest
+
+- Testing Library :: [ ![testing-library][testing-library-badge] ][testing-library-link]
+
+[testing-library-link]: https://testing-library.com/
+[testing-library-badge]: https://img.shields.io/badge/Testing_Library-E33332?logoColor=FFFFFF&style=flat-square&logo=testing-library
 
 - Cypress :: [ ![cypress][cypress-badge] ][cypress-link]
 
