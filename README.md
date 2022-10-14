@@ -146,6 +146,9 @@ JSON Server     :: api data prototyping
   - api usage
   - run server
   - data analytics
+- what other things can I make?
+  - creative coding
+  - generative art
 
 </details>
 
@@ -338,13 +341,13 @@ href="https://github.com/Platane/snk#readme">
 [apollo-link]: https://apollographql.com/
 [apollo-badge]: https://img.shields.io/badge/Apollo-311C87?logoColor=FFFFFF&logo=apollo-graphql
 
-<!-- Prisma -->
-[prisma-link]: https://www.prisma.io/
-[prisma-badge]: https://img.shields.io/badge/Prisma-2D3748?logoColor=FFFFFF&logo=prisma
-
 <!-- tRPC -->
 [trpc-link]: https://trpc.io/
 [trpc-badge]: https://img.shields.io/badge/tRPC-2596BE?logoColor=FFFFFF&logo=trpc
+
+<!-- Prisma -->
+[prisma-link]: https://prisma.io/
+[prisma-badge]: https://img.shields.io/badge/Prisma-2D3748?logoColor=FFFFFF&logo=prisma
 
 <!-- ====== TESTING ====== -->
 

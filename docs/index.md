@@ -1,4 +1,4 @@
-# Links & Resources | [🔙](../)
+# Links & Resources | [🔙](https://github.com/awwmicky)
 
 ## As a visitor, what should I have?
 
