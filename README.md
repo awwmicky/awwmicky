@@ -51,6 +51,7 @@ href="https://github.com/tandpfun/skill-icons#readme">
 [ ![storybook][storybook-badge] ][storybook-link]
 [ ![graphql][graphql-badge] ][graphql-link]
 [ ![apollo][apollo-badge] ][apollo-link]
+[ ![trpc][trpc-badge] ][trpc-link]
 [ ![prisma][prisma-badge] ][prisma-link]
 
 [ ![testing-library][testing-library-badge] ][testing-library-link]
@@ -64,13 +65,14 @@ href="https://github.com/tandpfun/skill-icons#readme">
 [ ![prismic][prismic-badge] ][prismic-link]
 [ ![storyblok][storyblok-badge] ][storyblok-link]
 [ ![hygraph][hygraph-badge] ][hygraph-link]
+
 <details>
 <summary>
 <b>What is my current tech stack?</b>
 </summary>
 <!-- <br /> -->
 
-### UI - Developement
+### UI - Development
 
 [ ![vite][vite-badge] ][vite-link]
 [ ![typescript][typescript-badge] ][typescript-link]
@@ -133,12 +135,17 @@ JSON Server     :: api data prototyping
 </summary>
 <br />
 
-- how to integrate : Prisma, PlanetScale, tRPC?~
-- how to type check global state data, async data, form data?~
-- how to build content structure for web apps?~
-- how to reduce imports, compress photos/videos, scale components?
-- how to launch a web app while tracking server cost?
-- how to launch a web app while checking data analytics?
+- how to integrate : tRPC, Prisma, PlanetScale?~
+- how to type check : global data, async data, form data?~
+- how to do content strategry for CMS web apps?
+- how to improve performance (build time)?
+  - import sizes
+  - image optimizations
+  - scalable components
+- how to manage service costs?
+  - api usage
+  - run server
+  - data analytics
 
 </details>
 
@@ -188,12 +195,11 @@ href="https://github.com/Platane/snk#readme">
 </div>
 
 [ ![💭 Ask Me Anything][ama-badge] ][ama-link]
-[ ![👀 Click Any Badge][shield-badge] ][shield-link]
+[ ![👀 Click Any Badge][resource-badge] ][resource-link]
 [ ![🤍 Open Source Software][oss-badge] ][oss-link]
-`(╯°□°)╯彡 ┻━┻ ` |
-`๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
+`(╯°□°)╯彡 ┻━┻ ` —|— `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
 
-----
+![<hr />][hr-snapshot]
 
 
 
@@ -205,10 +211,10 @@ href="https://github.com/Platane/snk#readme">
 
 <!-- ama -->
 [ama-link]: https://github.com/awwmicky/awwmicky/issues/new
-[ama-badge]: https://img.shields.io/badge/Ask_me-💭_Anything-33CC99
+[ama-badge]: https://img.shields.io/badge/Ask_me_anything-💭_Let's_chat-33CC99
 <!-- shield -->
-[shield-link]: https://shields.io/
-[shield-badge]: https://img.shields.io/badge/Click_any_badges-👀_For_resources-FFFFFF
+[resource-link]: ./docs/index.md
+[resource-badge]: https://img.shields.io/badge/Click_any_badges-👀_For_resources-FFFFFF
 <!-- oss -->
 [oss-link]: https://github.com/ellerbrock/open-source-badges/
 [oss-badge]: https://badges.frapsoft.com/os/v2/open-source.svg
@@ -223,7 +229,7 @@ href="https://github.com/Platane/snk#readme">
 [email-badge]: https://img.shields.io/badge/📧_Email-CF1920?style=for-the-badge
 <!-- Phone -->
 [phone-link]: https://rebrand.ly/michael-f-alvarez__phone
-[phone-badge]: https://img.shields.io/badge/📞_Phone-8AB702?style=for-the-badge
+[phone-badge]: https://img.shields.io/badge/📞_Phone-1A73E8?style=for-the-badge
 <!-- Resume -->
 [resume-link]: https://rebrand.ly/michael-f-alvarez__resume
 [resume-badge]: https://img.shields.io/badge/📄_Resume-DFDFDF?style=for-the-badge
@@ -263,7 +269,7 @@ href="https://github.com/Platane/snk#readme">
 <!-- Tailwind CSS -->
 
 [tailwind-css-link]: https://tailwindcss.com/
-[tailwind-css-badge]: https://img.shields.io/badge/Tailwind_CSS-38BDf8?&logoColor=FFFFFF&logo=tailwind-css
+[tailwind-css-badge]: https://img.shields.io/badge/Tailwind_CSS-38BDF8?&logoColor=FFFFFF&logo=tailwind-css
 
 <!-- Styled-Components -->
 
@@ -325,16 +331,20 @@ href="https://github.com/Platane/snk#readme">
 <!-- GraphQL -->
 
 [graphql-link]: https://graphql.org/
-[graphql-badge]: https://img.shields.io/badge/GraphQL-E10098?logoColor=FFFFFF&style=flat-square&logo=graphql
+[graphql-badge]: https://img.shields.io/badge/GraphQL-E10098?logoColor=FFFFFF&logo=graphql
 
 <!-- Apollo -->
 
 [apollo-link]: https://apollographql.com/
-[apollo-badge]: https://img.shields.io/badge/Apollo-311C87?logoColor=FFFFFF&style=flat-square&logo=apollo-graphql
+[apollo-badge]: https://img.shields.io/badge/Apollo-311C87?logoColor=FFFFFF&logo=apollo-graphql
 
 <!-- Prisma -->
 [prisma-link]: https://www.prisma.io/
-[prisma-badge]: https://img.shields.io/badge/Prisma-2D3748?logoColor=FFFFFF&style=flat-square&logo=prisma
+[prisma-badge]: https://img.shields.io/badge/Prisma-2D3748?logoColor=FFFFFF&logo=prisma
+
+<!-- tRPC -->
+[trpc-link]: https://trpc.io/
+[trpc-badge]: https://img.shields.io/badge/tRPC-2596BE?logoColor=FFFFFF&logo=trpc
 
 <!-- ====== TESTING ====== -->
 

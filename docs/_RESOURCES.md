@@ -1,10 +1,6 @@
 # RESOURCES
 
 
-## README Examples
-
-- https://eddiehubcommunity.github.io/awesome-github-profiles/profiles
-
 ## Badge URL
 
 - https://shields.io/
