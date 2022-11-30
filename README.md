@@ -2,13 +2,15 @@
 
 <div align="center">
   <h1>
-    Hola, nice to meet ya 
+    <b>Hola, nice to meet ya</b>
     <img alt="👋" width="30" src="./assets/gifs/wave.gif" />
   </h1>
 
-  <h2><span>Got a project idea?</span> <i>Let's get in touch</i></h2>
+  <h2>
+    <font color="darkgray">Got a project idea?</font>
+    <font color="gray">Let's get in touch</font>
+  </h2>
 
-  [ ![portfolio][portfolio-badge] ][portfolio-link] &nbsp;
   [ ![email][email-badge] ][email-link] &nbsp;
   [ ![phone][phone-badge] ][phone-link] &nbsp;
   [ ![resume][resume-badge] ][resume-link] &nbsp;
@@ -19,6 +21,7 @@
   [ ![gh-page][gh-page-badge] ][gh-page-link] &nbsp;
   [ ![gh-readme][gh-readme-badge] ][gh-readme-link]
 
+  [aww-micky.web.app](https://aww-micky.web.app)
 </div>
 
 ![<hr />][hr-snapshot]
@@ -27,7 +30,7 @@
 
 ```js
 const Michael_F_Alvarez = {
-  summary    : 'I build digital solutions for SaaS products & Marketing Agencies',
+  summary    : 'I build digital solutions for SaaS products & marketing agencies',
   roles      : [ 'Front-End Engineer', 'UI Developer', 'Design Thinking' ],
   interests  : [ 'JAM Stack', 'Serverless Functions', 'Headless CMS' ],
   key_values : [ 'curious', 'collaborative', 'creative' ],
@@ -207,12 +210,13 @@ href="https://github.com/Platane/snk#readme">
 
 <div align="center">
 
-[ ![💭 Ask Me Anything][ama-badge] ][ama-link]
-[ ![👀 Click Any Badge][resource-badge] ][resource-link]
+[ ![💭 Ask Me Anything][ama-badge] ][ama-link] &nbsp;
+[ ![👀 Click Any Badge][resource-badge] ][resource-link] &nbsp;
 [ ![🤍 Open Source Software][oss-badge] ][oss-link]
 
-`(╯°□°)╯彡 ┻━┻ ` —|— `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
+`(╯°□°)╯彡 ┻━┻ ` &nbsp; `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
 
+[aww-micky.web.app](https://aww-micky.web.app)
 </div>
 
 ![<hr />][hr-snapshot]
@@ -245,7 +249,7 @@ href="https://github.com/Platane/snk#readme">
 [email-badge]: https://img.shields.io/badge/📧_Email-CF1920?style=for-the-badge
 <!-- Phone -->
 [phone-link]: https://rebrand.ly/michael-f-alvarez__phone
-[phone-badge]: https://img.shields.io/badge/📞_Phone-1A73E8?style=for-the-badge
+[phone-badge]: https://img.shields.io/badge/📞_Phone-08a35f?style=for-the-badge
 <!-- Resume -->
 [resume-link]: https://rebrand.ly/michael-f-alvarez__resume
 [resume-badge]: https://img.shields.io/badge/📄_Resume-DFDFDF?style=for-the-badge
