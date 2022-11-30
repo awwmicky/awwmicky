@@ -20,7 +20,7 @@
 
 ```js
 const Michael_F_Alvarez = {
-  summary    : 'I build websites & web apps as a digital solution for SaaS products',
+  summary    : 'I build digital solutions for SaaS products & Marketing Agencies',
   roles      : [ 'Front-End Engineer', 'UI Developer', 'Design Thinking' ],
   interests  : [ 'JAM Stack', 'Serverless Functions', 'Headless CMS' ],
   key_values : [ 'curious', 'collaborative', 'creative' ],
@@ -163,14 +163,14 @@ target="_blank"
 title="open 'github-readme-stats' repo" 
 href="https://github.com/anuraghazra/github-readme-stats#readme">
   <img 
-  height="176em" 
+  height="165" 
   alt="github-stats" 
   src="https://github-readme-stats.vercel.app/api?username=awwmicky&theme=blue-green&include_all_commits=true&count_private=true&show_icons=true" 
   />
   <img 
-  height="176em" 
+  height="165" 
   alt="top-languages" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwmicky&theme=blue-green&layout=compact&langs_count=6" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwmicky&theme=blue-green&layout=compact&langs_count=4" 
   />
 </a>
 
@@ -179,7 +179,7 @@ target="_blank"
 title="open 'generate snake' repo" 
 href="https://github.com/Platane/snk#readme">
   <img 
-  width="100%"
+  height="185" 
   alt="github-contribution-grid-snake" 
   src="https://raw.githubusercontent.com/awwmicky/awwmicky/output/snake.svg" 
   />
@@ -191,16 +191,22 @@ href="https://github.com/Platane/snk#readme">
   title="open 'readme typing svg' repo"
   href="https://github.com/DenverCoder1/readme-typing-svg#readme">
     <img
+    width="50%"
     alt="readme-typing"
     src="https://readme-typing-svg.herokuapp.com?duration=5500&color=0Cf474&background=FFFFFF00&hCenter=true&vCenter=true&width=450&lines=Thanks+for+visiting!+Enjoy+your+day+~"
     />
   </a>
 </div>
 
+<div align="center">
+
 [ ![💭 Ask Me Anything][ama-badge] ][ama-link]
 [ ![👀 Click Any Badge][resource-badge] ][resource-link]
 [ ![🤍 Open Source Software][oss-badge] ][oss-link]
+
 `(╯°□°)╯彡 ┻━┻ ` —|— `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
+
+</div>
 
 ![<hr />][hr-snapshot]
 
