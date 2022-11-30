@@ -1,18 +1,25 @@
 ![🎈](./assets/images/banner-tech.png)
-# Hola, nice to meet ya <img alt="👋" width="30" src="./assets/gifs/wave.gif" />
 
-### Got a project idea? Let's get in touch
+<div align="center">
+  <h1>
+    Hola, nice to meet ya 
+    <img alt="👋" width="30" src="./assets/gifs/wave.gif" />
+  </h1>
 
-[ ![portfolio][portfolio-badge] ][portfolio-link]
-[ ![email][email-badge] ][email-link]
-[ ![phone][phone-badge] ][phone-link]
-[ ![resume][resume-badge] ][resume-link]
-[ ![calendly][calendly-badge] ][calendly-link]
-[ ![linkedin][linkedin-badge] ][linkedin-link]
-[ ![twitter][twitter-badge] ][twitter-link]
+  <h2><span>Got a project idea?</span> <i>Let's get in touch</i></h2>
 
-[ ![gh-page][gh-page-badge] ][gh-page-link]
-[ ![gh-readme][gh-readme-badge] ][gh-readme-link]
+  [ ![portfolio][portfolio-badge] ][portfolio-link] &nbsp;
+  [ ![email][email-badge] ][email-link] &nbsp;
+  [ ![phone][phone-badge] ][phone-link] &nbsp;
+  [ ![resume][resume-badge] ][resume-link] &nbsp;
+  [ ![calendly][calendly-badge] ][calendly-link] &nbsp;
+  [ ![linkedin][linkedin-badge] ][linkedin-link] &nbsp;
+  [ ![twitter][twitter-badge] ][twitter-link]
+
+  [ ![gh-page][gh-page-badge] ][gh-page-link] &nbsp;
+  [ ![gh-readme][gh-readme-badge] ][gh-readme-link]
+
+</div>
 
 ![<hr />][hr-snapshot]
 
@@ -156,7 +163,7 @@ JSON Server     :: api data prototyping
 
 <!-- ## Have a project idea? Let's talk -->
 
-## 📈 GH Stats
+## GH Stats 📈
 
 <a 
 target="_blank" 

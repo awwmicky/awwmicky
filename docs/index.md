@@ -1,5 +1,6 @@
 # Links & Resources | [🔙](https://github.com/awwmicky)
 
+<!-- https://github-readme-stats.vercel.app/api/wakatime?username=awwmicky -->
 ## As a visitor, what should I have?
 
 GitHub (README) Profile
