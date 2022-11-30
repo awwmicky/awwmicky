@@ -7,8 +7,8 @@
   </h1>
 
   <h2>
-    <font color="darkgray">Got a project idea?</font>
-    <font color="gray">Let's get in touch</font>
+    <font color="6356E5">Got a project idea?</font>
+    <font color="6356E5">Let's get in touch</font>
   </h2>
 
   [ ![email][email-badge] ][email-link] &nbsp;
@@ -21,7 +21,7 @@
   [ ![gh-page][gh-page-badge] ][gh-page-link] &nbsp;
   [ ![gh-readme][gh-readme-badge] ][gh-readme-link]
 
-  [aww-micky.web.app](https://aww-micky.web.app)
+  <kbd><a href="https://aww-micky.web.app">aww-micky.web.app</a></kbd>
 </div>
 
 ![<hr />][hr-snapshot]
@@ -216,7 +216,7 @@ href="https://github.com/Platane/snk#readme">
 
 `(╯°□°)╯彡 ┻━┻ ` &nbsp; `๑๑๑  ﾐ ʕ•ᴥ•;ʔ`
 
-[aww-micky.web.app](https://aww-micky.web.app)
+<kbd><a href="https://aww-micky.web.app">aww-micky.web.app</a></kbd>
 </div>
 
 ![<hr />][hr-snapshot]
@@ -398,7 +398,7 @@ href="https://github.com/Platane/snk#readme">
 <!-- contentful -->
 
 [contentful-link]: https://contentful.com/
-[contentful-badge]: https://img.shields.io/badge/Contentful-9BDC10?logoColor=000000&logo=addthis
+[contentful-badge]: https://img.shields.io/badge/Contentful-0B6AE6?logoColor=000000&logo=addthis
 
 <!-- strapi -->
 
