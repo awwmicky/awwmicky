@@ -1,4 +1,4 @@
-![🎈](./assets/images/banner-tech.png)
+![🎈](./assets/images/banner.png)
 
 <div align="center">
   <h1>
@@ -29,8 +29,8 @@
 
 ## Who I Am <img alt="😎" width="30" src="./assets/gifs/sunglasses.gif" />
 
-```js
-const Michael_Alvarez = {
+```ts
+const Michael_Fred_Alvarez: Builder = {
   summary    : 'I build digital solutions for SaaS products & marketing agencies',
   roles      : [ 'Front-End Engineer', 'UI Developer', 'Design Thinker' ],
   interests  : [ 'Headless CMS', 'Serverless Functions', 'JAM Stack' ],
@@ -306,20 +306,20 @@ href="https://github.com/Platane/snk#readme">
 -->
 
 <!-- Portfolio -->
-[portfolio-link]: https://rebrand.ly/michael-f-alvarez__portfolio
+[portfolio-link]: https://rebrand.ly/michael-fred-alvarez__portfolio
 [portfolio-badge]: https://img.shields.io/website-live-issue-sucess-important/https/aww-micky.web.app/?style=for-the-badge
 
 <!-- Email -->
 [email-link]: mailto:m-f-alvarez@outlook.com
 [email-badge]: https://img.shields.io/badge/📧_Email-CF1920?style=for-the-badge
 <!-- Phone -->
-[phone-link]: https://rebrand.ly/michael-f-alvarez__phone
+[phone-link]: https://rebrand.ly/michael-fred-alvarez__phone
 [phone-badge]: https://img.shields.io/badge/📞_Phone-08a35f?style=for-the-badge
 <!-- Resume -->
-[resume-link]: https://rebrand.ly/michael-f-alvarez__resume
+[resume-link]: https://rebrand.ly/michael-fred-alvarez__resume
 [resume-badge]: https://img.shields.io/badge/📄_Resume-DFDFDF?style=for-the-badge
 <!-- Calendly -->
-[calendly-link]: https://calendly.com/michael-f-alvarez/meetup
+[calendly-link]: https://calendly.com/michael-fred-alvarez/session
 [calendly-badge]: https://img.shields.io/badge/📅_Calendly-006BFF?style=for-the-badge
 <!-- LinkedIn -->
 [linkedin-link]: https://linkedin.com/in/awwmicky
