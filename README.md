@@ -35,7 +35,7 @@ target="_blank"
 href="https://github.com/awwmicky/audiophile"
 >
 <img
-height="97"
+height="90"
 alt="audiophile repo"
 src="https://github-readme-stats.vercel.app/api/pin/?username=awwmicky&repo=audiophile"
 />
@@ -45,7 +45,7 @@ target="_blank"
 href="https://github.com/awwmicky/frisko-wave"
 >
 <img
-height="97"
+height="90"
 alt="frisko-wave repo"
 src="https://github-readme-stats.vercel.app/api/pin/?username=awwmicky&repo=frisko-wave"
 />
@@ -55,7 +55,7 @@ target="_blank"
 href="https://github.com/awwmicky/rata-call"
 >
 <img
-height="97"
+height="90"
 alt="rata-call repo"
 src="https://github-readme-stats.vercel.app/api/pin/?username=awwmicky&repo=rata-call"
 />
