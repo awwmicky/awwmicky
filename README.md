@@ -27,6 +27,43 @@
 
 ![<hr />][hr-snapshot]
 
+## My Recent Projects
+
+<div>
+<a
+target="_blank"
+href="https://github.com/awwmicky/audiophile"
+>
+<img
+height="97"
+alt="audiophile repo"
+src="https://github-readme-stats.vercel.app/api/pin/?username=awwmicky&repo=audiophile"
+/>
+</a>
+<a
+target="_blank"
+href="https://github.com/awwmicky/frisko-wave"
+>
+<img
+height="97"
+alt="frisko-wave repo"
+src="https://github-readme-stats.vercel.app/api/pin/?username=awwmicky&repo=frisko-wave"
+/>
+</a>
+<a
+target="_blank"
+href="https://github.com/awwmicky/rata-call"
+>
+<img
+height="97"
+alt="rata-call repo"
+src="https://github-readme-stats.vercel.app/api/pin/?username=awwmicky&repo=rata-call"
+/>
+</a>
+</div>
+
+![<hr />][hr-snapshot]
+
 ## Who I Am <img alt="😎" width="30" src="./assets/gifs/sunglasses.gif" />
 
 ```ts
