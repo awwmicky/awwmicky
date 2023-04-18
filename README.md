@@ -1,4 +1,4 @@
-![🎈](./assets/images/banner.png)
+![🎈](./assets/images/profile-banner.png)
 
 <div align="center">
   <h1>
@@ -30,9 +30,9 @@
 ## Who I Am <img alt="😎" width="30" src="./assets/gifs/sunglasses.gif" />
 
 ```ts
-const Michael_Fred_Alvarez: Builder = {
-  summary    : 'I build digital solutions for SaaS products & marketing agencies',
-  roles      : [ 'Front-End Engineer', 'UI Developer', 'Design Thinker' ],
+const Michael_Alvarez = {
+  summary    : 'builds digital solutions for SaaS products & B2B marketing',
+  roles      : [ 'Front-End Software Engineer', 'UI Developer', 'Problem Solver' ],
   interests  : [ 'Headless CMS', 'Serverless Functions', 'JAM Stack' ],
   key_values : [ 'curious', 'collaborative', 'creative' ],
   type_check : true && '~ 𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎 𝚛𝚞𝚕𝚎𝚜 ~',
@@ -48,7 +48,7 @@ const Michael_Fred_Alvarez: Builder = {
 
 <a 
 target="_blank" 
-title="open 'skill icons' repo" 
+title="open repo → 'skill icons'" 
 href="https://github.com/tandpfun/skill-icons#readme">
   <img 
   alt="skill-icons" 
@@ -240,7 +240,7 @@ href="https://github.com/tandpfun/skill-icons#readme">
 
 <a 
 target="_blank" 
-title="open 'github-readme-stats' repo" 
+title="open repo → 'github-readme-stats'" 
 href="https://github.com/anuraghazra/github-readme-stats#readme">
   <img 
   height="165" 
@@ -256,7 +256,7 @@ href="https://github.com/anuraghazra/github-readme-stats#readme">
 
 <a 
 target="_blank" 
-title="open 'generate snake' repo" 
+title="open repo → 'generate snake'" 
 href="https://github.com/Platane/snk#readme">
   <img 
   height="185" 
@@ -268,7 +268,7 @@ href="https://github.com/Platane/snk#readme">
 <div align="center">
   <a 
   target="_blank" 
-  title="open 'readme typing svg' repo"
+  title="open repo → 'readme typing svg'"
   href="https://github.com/DenverCoder1/readme-typing-svg#readme">
     <img
     width="50%"
@@ -310,11 +310,11 @@ href="https://github.com/Platane/snk#readme">
 [portfolio-badge]: https://img.shields.io/website-live-issue-sucess-important/https/aww-micky.web.app/?style=for-the-badge
 
 <!-- Email -->
-[email-link]: mailto:m-f-alvarez@outlook.com
+[email-link]: mailto:michael@awwmicky.space
 [email-badge]: https://img.shields.io/badge/📧_Email-CF1920?style=for-the-badge
 <!-- Phone -->
 [phone-link]: https://rebrand.ly/michael-fred-alvarez__phone
-[phone-badge]: https://img.shields.io/badge/📞_Phone-08a35f?style=for-the-badge
+[phone-badge]: https://img.shields.io/badge/📞_Phone-08A35F?style=for-the-badge
 <!-- Resume -->
 [resume-link]: https://rebrand.ly/michael-fred-alvarez__resume
 [resume-badge]: https://img.shields.io/badge/📄_Resume-DFDFDF?style=for-the-badge
